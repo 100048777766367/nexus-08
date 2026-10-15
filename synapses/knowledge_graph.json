@@ -29,7 +29,9 @@
         "Lengelsheim:",
         "commune the",
         "Chitty",
-        "Bang Bang"
+        "Bang Bang",
+        "Portrait",
+        "Robert Peel:"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -46,6 +48,7 @@
         "With --[little]--> Stick Blackpool",
         "Deanville, --[texas:]--> Deanville unincorporated",
         "Lengelsheim: --[lengelsheim]--> commune the",
-        "Chitty --[chitty]--> Bang Bang"
+        "Chitty --[chitty]--> Bang Bang",
+        "Portrait --[sir]--> Robert Peel:"
     ]
 }
