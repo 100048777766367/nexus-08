@@ -2,7 +2,6 @@ import os
 import sys
 import json
 
-# Thêm đường dẫn hiện tại vào sys.path để import nội bộ mượt mà
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from cortex.sense_intake import SenseIntakeLobe
@@ -10,17 +9,14 @@ from cortex.consensus_immune import ConsensusImmuneLobe
 from cortex.mind_sandbox import MindSandboxLobe
 from cortex.transmute_act import TransmuteActLobe
 
-VITAL_BLUEPRINT = [
+# Chỉ quét tự vá các cơ quan nền tảng dùng chung giữa các thế hệ
+VITAL_SHARED_CELLS = [
     "cells/linguistic_cell.py",
     "cells/neuron.py",
-    "cells/super_xor.py",
-    "cortex/sense_intake.py",
-    "cortex/consensus_immune.py",
-    "cortex/mind_sandbox.py",
-    "cortex/transmute_act.py"
+    "cells/super_xor.py"
 ]
 
-class Nexus08CrystallineEngine:
+class Nexus08GrandEngine:
     def __init__(self):
         self.repo_name = os.environ.get("GITHUB_REPOSITORY", "100048777766367/nexus-08")
         self.owner = os.environ.get("REPO_OWNER", "100048777766367")
@@ -33,7 +29,7 @@ class Nexus08CrystallineEngine:
 
         self.ensure_folders()
 
-        # 4 ĐẠI THÙY NÃO TINH THỂ
+        # 4 ĐẠI THÙY NÃO TRỤC THẬP TỰ
         self.sense_lobe = SenseIntakeLobe(self.owner, self.lineage)
         self.consensus_lobe = ConsensusImmuneLobe()
         self.mind_lobe = MindSandboxLobe(num_cells=8)
@@ -57,7 +53,10 @@ class Nexus08CrystallineEngine:
             try:
                 with open(p_file, "r") as f: return json.load(f).get("trusted_peers", [])
             except Exception: pass
-        return [f"{self.owner}/neuron", f"{self.owner}/nexus-07", f"{self.owner}/seed", f"{self.owner}/motor"]
+        return [
+            f"{self.owner}/nexus-07", f"{self.owner}/nexus-06",
+            f"{self.owner}/neuron", f"{self.owner}/seed", f"{self.owner}/motor"
+        ]
 
     def load_epoch(self):
         s_file = "synapses/state.json"
@@ -69,26 +68,26 @@ class Nexus08CrystallineEngine:
 
     def run(self):
         print("=" * 80)
-        print(f"💎 [NEXUS-08 CRYSTALLINE ENGINE] KHỞI ĐỘNG THẾ HỆ #{self.context['current_epoch']}")
-        print(f"👑 Bậc: F8 Siêu Thực Thể Tinh Thể – Sạch Nợ Kỹ Thuật – 4 Đại Thùy Não")
+        print(f"🌌 [NEXUS-08 GRAND CROSS] KHỞI ĐỘNG THẾ HỆ #{self.context['current_epoch']}")
+        print(f"👑 Bậc: F8 Đại Giao Điểm Thần Kinh – Trục Thập Tự 4 Đại Thùy Não")
         print("=" * 80)
 
-        # 1. Thùy Cảm Thụ: Tự vá di sản & gặm tri thức
-        self.sense_lobe.process(self.context, VITAL_BLUEPRINT)
+        # 1. Thùy Cảm Thụ: Tiếp nhận tri thức ngoại giới & Tự vá tế bào
+        self.sense_lobe.process(self.context, VITAL_SHARED_CELLS)
 
-        # 2. Thùy Miễn Dịch: Thu thập song song, Trust Matrix & Sóng não Kuramoto
+        # 2. Thùy Miễn Dịch: Thu thập tín hiệu P2P, Lọc Byzantine & Hòa âm Kuramoto
         self.consensus_lobe.process(self.context)
 
-        # 3. Thùy Tâm Thức: Neuro-Symbolic Graph, Giả lập What-If, Giấc mơ REM & Siêu XOR
+        # 3. Thùy Tâm Thức: Đồ thị tri thức, Giả lập What-If & Siêu XOR
         self.mind_lobe.process(self.context)
 
-        # 4. Thùy Chấp Hành: Biến hình 11 tầng, La bàn Bồ Đề, Hồi sinh 404 & Phát sóng
+        # 4. Thùy Chấp Hành: La bàn Bồ Đề, Biến hình 11 tầng, Chuyển sinh 404 & Phát sóng
         self.transmute_lobe.process(self.context)
 
         print("=" * 80)
-        print(f"✨ [HOÀN TẤT VÒNG ĐỜI F8] Thế hệ #{self.context['current_epoch']} hội tụ tinh khiết viên mãn!")
+        print(f"✨ [HOÀN TẤT VÒNG ĐỜI F8] Đại Giao Điểm đã khúc xạ hoàn mỹ khắp 11 tầng!")
         print("=" * 80)
 
 if __name__ == "__main__":
-    node = Nexus08CrystallineEngine()
+    node = Nexus08GrandEngine()
     node.run()
