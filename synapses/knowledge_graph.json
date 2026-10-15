@@ -13,7 +13,11 @@
         "Mark",
         "Mark Dresser",
         "Interiotherin:",
-        "are lignans"
+        "are lignans",
+        "Maigret",
+        "the Headless",
+        "Originally",
+        "French"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -22,6 +26,8 @@
         "Wanna --[hold]--> You: Wanna",
         "Malin --[sandberg:]--> Malin Sandberg",
         "Mark --[dresser:]--> Mark Dresser",
-        "Interiotherin: --[interiotherins]--> are lignans"
+        "Interiotherin: --[interiotherins]--> are lignans",
+        "Maigret --[and]--> the Headless",
+        "Originally --[written]--> French"
     ]
 }
