@@ -17,7 +17,11 @@
         "Maigret",
         "the Headless",
         "Originally",
-        "French"
+        "French",
+        "Gonna",
+        "Go!: \"Gonna",
+        "This",
+        "group's third"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -28,6 +32,8 @@
         "Mark --[dresser:]--> Mark Dresser",
         "Interiotherin: --[interiotherins]--> are lignans",
         "Maigret --[and]--> the Headless",
-        "Originally --[written]--> French"
+        "Originally --[written]--> French",
+        "Gonna --[gonna]--> Go!: \"Gonna",
+        "This --[the]--> group's third"
     ]
 }

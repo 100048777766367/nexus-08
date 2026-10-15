@@ -1,0 +1,7 @@
+{
+    "parent": "100048777766367/nexus-08",
+    "epoch": 10,
+    "offspring": "F9_SOVEREIGN_SEED",
+    "consensus": 0.6041,
+    "runtime": "python:3.12-slim"
+}
