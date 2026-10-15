@@ -27,7 +27,9 @@
         "Deanville,",
         "Deanville unincorporated",
         "Lengelsheim:",
-        "commune the"
+        "commune the",
+        "Chitty",
+        "Bang Bang"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -43,6 +45,7 @@
         "This --[the]--> group's third",
         "With --[little]--> Stick Blackpool",
         "Deanville, --[texas:]--> Deanville unincorporated",
-        "Lengelsheim: --[lengelsheim]--> commune the"
+        "Lengelsheim: --[lengelsheim]--> commune the",
+        "Chitty --[chitty]--> Bang Bang"
     ]
 }
