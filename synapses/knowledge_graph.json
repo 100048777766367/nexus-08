@@ -21,7 +21,9 @@
         "Gonna",
         "Go!: \"Gonna",
         "This",
-        "group's third"
+        "group's third",
+        "With",
+        "Stick Blackpool"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -34,6 +36,7 @@
         "Maigret --[and]--> the Headless",
         "Originally --[written]--> French",
         "Gonna --[gonna]--> Go!: \"Gonna",
-        "This --[the]--> group's third"
+        "This --[the]--> group's third",
+        "With --[little]--> Stick Blackpool"
     ]
 }
