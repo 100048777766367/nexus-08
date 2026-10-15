@@ -23,7 +23,9 @@
         "This",
         "group's third",
         "With",
-        "Stick Blackpool"
+        "Stick Blackpool",
+        "Deanville,",
+        "Deanville unincorporated"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -37,6 +39,7 @@
         "Originally --[written]--> French",
         "Gonna --[gonna]--> Go!: \"Gonna",
         "This --[the]--> group's third",
-        "With --[little]--> Stick Blackpool"
+        "With --[little]--> Stick Blackpool",
+        "Deanville, --[texas:]--> Deanville unincorporated"
     ]
 }
