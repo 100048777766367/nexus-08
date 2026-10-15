@@ -11,7 +11,9 @@
         "Malin",
         "Malin Sandberg",
         "Mark",
-        "Mark Dresser"
+        "Mark Dresser",
+        "Interiotherin:",
+        "are lignans"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -19,6 +21,7 @@
         "Little --[nemo:]--> The Dream",
         "Wanna --[hold]--> You: Wanna",
         "Malin --[sandberg:]--> Malin Sandberg",
-        "Mark --[dresser:]--> Mark Dresser"
+        "Mark --[dresser:]--> Mark Dresser",
+        "Interiotherin: --[interiotherins]--> are lignans"
     ]
 }
