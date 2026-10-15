@@ -35,7 +35,9 @@
         "Peter",
         "Peter Jasper",
         "Also",
-        "former bishop"
+        "former bishop",
+        "Budge",
+        "Institute Technology:"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -55,6 +57,7 @@
         "Chitty --[chitty]--> Bang Bang",
         "Portrait --[sir]--> Robert Peel:",
         "Peter --[akinola:]--> Peter Jasper",
-        "Also --[the]--> former bishop"
+        "Also --[the]--> former bishop",
+        "Budge --[budge]--> Institute Technology:"
     ]
 }
