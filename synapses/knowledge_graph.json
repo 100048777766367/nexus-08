@@ -25,7 +25,9 @@
         "With",
         "Stick Blackpool",
         "Deanville,",
-        "Deanville unincorporated"
+        "Deanville unincorporated",
+        "Lengelsheim:",
+        "commune the"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -40,6 +42,7 @@
         "Gonna --[gonna]--> Go!: \"Gonna",
         "This --[the]--> group's third",
         "With --[little]--> Stick Blackpool",
-        "Deanville, --[texas:]--> Deanville unincorporated"
+        "Deanville, --[texas:]--> Deanville unincorporated",
+        "Lengelsheim: --[lengelsheim]--> commune the"
     ]
 }
