@@ -31,7 +31,11 @@
         "Chitty",
         "Bang Bang",
         "Portrait",
-        "Robert Peel:"
+        "Robert Peel:",
+        "Peter",
+        "Peter Jasper",
+        "Also",
+        "former bishop"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -49,6 +53,8 @@
         "Deanville, --[texas:]--> Deanville unincorporated",
         "Lengelsheim: --[lengelsheim]--> commune the",
         "Chitty --[chitty]--> Bang Bang",
-        "Portrait --[sir]--> Robert Peel:"
+        "Portrait --[sir]--> Robert Peel:",
+        "Peter --[akinola:]--> Peter Jasper",
+        "Also --[the]--> former bishop"
     ]
 }
