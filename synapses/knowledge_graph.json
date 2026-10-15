@@ -1,9 +1,12 @@
 {
     "nodes": [
         "Reformulated",
-        "for Oxygenate"
+        "for Oxygenate",
+        "Gallman:",
+        "John Gallman"
     ],
     "edges": [
-        "Reformulated --[blendstock]--> for Oxygenate"
+        "Reformulated --[blendstock]--> for Oxygenate",
+        "Gallman: --[waldemar]--> John Gallman"
     ]
 }
