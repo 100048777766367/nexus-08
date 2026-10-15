@@ -3,10 +3,13 @@
         "Reformulated",
         "for Oxygenate",
         "Gallman:",
-        "John Gallman"
+        "John Gallman",
+        "Little",
+        "The Dream"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
-        "Gallman: --[waldemar]--> John Gallman"
+        "Gallman: --[waldemar]--> John Gallman",
+        "Little --[nemo:]--> The Dream"
     ]
 }
