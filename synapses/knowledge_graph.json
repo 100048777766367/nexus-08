@@ -7,12 +7,15 @@
         "Little",
         "The Dream",
         "Wanna",
-        "You: Wanna"
+        "You: Wanna",
+        "Malin",
+        "Malin Sandberg"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
         "Gallman: --[waldemar]--> John Gallman",
         "Little --[nemo:]--> The Dream",
-        "Wanna --[hold]--> You: Wanna"
+        "Wanna --[hold]--> You: Wanna",
+        "Malin --[sandberg:]--> Malin Sandberg"
     ]
 }
