@@ -48,7 +48,9 @@
         "the short",
         "Fernando",
         "Fernando Verdasco",
-        "world"
+        "world",
+        "Tió",
+        "The Tió"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -75,6 +77,7 @@
         "Jerry --[broome:]--> Jerry Broome",
         "First --[starred]--> the short",
         "Fernando --[verdasco:]--> Fernando Verdasco",
-        "Was --[ranked]--> world"
+        "Was --[ranked]--> world",
+        "Tió --[nadal:]--> The Tió"
     ]
 }
