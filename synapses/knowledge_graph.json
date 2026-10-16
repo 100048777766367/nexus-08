@@ -45,7 +45,10 @@
         "Jerry",
         "Jerry Broome",
         "First",
-        "the short"
+        "the short",
+        "Fernando",
+        "Fernando Verdasco",
+        "world"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -70,6 +73,8 @@
         "Rolls-royce --[silver]--> Wraith: The",
         "Was --[made]--> from 1946",
         "Jerry --[broome:]--> Jerry Broome",
-        "First --[starred]--> the short"
+        "First --[starred]--> the short",
+        "Fernando --[verdasco:]--> Fernando Verdasco",
+        "Was --[ranked]--> world"
     ]
 }
