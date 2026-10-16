@@ -41,7 +41,11 @@
         "Rolls-royce",
         "Wraith: The",
         "Was",
-        "from 1946"
+        "from 1946",
+        "Jerry",
+        "Jerry Broome",
+        "First",
+        "the short"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -64,6 +68,8 @@
         "Also --[the]--> former bishop",
         "Budge --[budge]--> Institute Technology:",
         "Rolls-royce --[silver]--> Wraith: The",
-        "Was --[made]--> from 1946"
+        "Was --[made]--> from 1946",
+        "Jerry --[broome:]--> Jerry Broome",
+        "First --[starred]--> the short"
     ]
 }
