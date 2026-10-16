@@ -37,7 +37,11 @@
         "Also",
         "former bishop",
         "Budge",
-        "Institute Technology:"
+        "Institute Technology:",
+        "Rolls-royce",
+        "Wraith: The",
+        "Was",
+        "from 1946"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -58,6 +62,8 @@
         "Portrait --[sir]--> Robert Peel:",
         "Peter --[akinola:]--> Peter Jasper",
         "Also --[the]--> former bishop",
-        "Budge --[budge]--> Institute Technology:"
+        "Budge --[budge]--> Institute Technology:",
+        "Rolls-royce --[silver]--> Wraith: The",
+        "Was --[made]--> from 1946"
     ]
 }
