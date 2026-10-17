@@ -50,7 +50,11 @@
         "Fernando Verdasco",
         "world",
         "Tió",
-        "The Tió"
+        "The Tió",
+        "Phydanis:",
+        "genus flea",
+        "There",
+        "two described"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -78,6 +82,8 @@
         "First --[starred]--> the short",
         "Fernando --[verdasco:]--> Fernando Verdasco",
         "Was --[ranked]--> world",
-        "Tió --[nadal:]--> The Tió"
+        "Tió --[nadal:]--> The Tió",
+        "Phydanis: --[phydanis]--> genus flea",
+        "There --[are]--> two described"
     ]
 }
