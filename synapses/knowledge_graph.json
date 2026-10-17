@@ -58,7 +58,9 @@
         "Poland",
         "2022 Winter",
         "Kreil,",
-        "Kreil hamlet"
+        "Kreil hamlet",
+        "Anarchist",
+        "campaign 1888–1889:"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -90,6 +92,7 @@
         "Phydanis: --[phydanis]--> genus flea",
         "There --[are]--> two described",
         "Poland --[the]--> 2022 Winter",
-        "Kreil, --[netherlands:]--> Kreil hamlet"
+        "Kreil, --[netherlands:]--> Kreil hamlet",
+        "Anarchist --[bombing]--> campaign 1888–1889:"
     ]
 }
