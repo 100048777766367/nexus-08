@@ -60,7 +60,9 @@
         "Kreil,",
         "Kreil hamlet",
         "Anarchist",
-        "campaign 1888–1889:"
+        "campaign 1888–1889:",
+        "Louis",
+        "Neuville: Louis"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -93,6 +95,7 @@
         "There --[are]--> two described",
         "Poland --[the]--> 2022 Winter",
         "Kreil, --[netherlands:]--> Kreil hamlet",
-        "Anarchist --[bombing]--> campaign 1888–1889:"
+        "Anarchist --[bombing]--> campaign 1888–1889:",
+        "Louis --[lemercier]--> Neuville: Louis"
     ]
 }
