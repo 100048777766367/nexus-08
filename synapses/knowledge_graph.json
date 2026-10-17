@@ -56,7 +56,9 @@
         "There",
         "two described",
         "Poland",
-        "2022 Winter"
+        "2022 Winter",
+        "Kreil,",
+        "Kreil hamlet"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -87,6 +89,7 @@
         "Tió --[nadal:]--> The Tió",
         "Phydanis: --[phydanis]--> genus flea",
         "There --[are]--> two described",
-        "Poland --[the]--> 2022 Winter"
+        "Poland --[the]--> 2022 Winter",
+        "Kreil, --[netherlands:]--> Kreil hamlet"
     ]
 }
