@@ -54,7 +54,9 @@
         "Phydanis:",
         "genus flea",
         "There",
-        "two described"
+        "two described",
+        "Poland",
+        "2022 Winter"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -84,6 +86,7 @@
         "Was --[ranked]--> world",
         "Tió --[nadal:]--> The Tió",
         "Phydanis: --[phydanis]--> genus flea",
-        "There --[are]--> two described"
+        "There --[are]--> two described",
+        "Poland --[the]--> 2022 Winter"
     ]
 }
