@@ -62,7 +62,11 @@
         "Anarchist",
         "campaign 1888–1889:",
         "Louis",
-        "Neuville: Louis"
+        "Neuville: Louis",
+        "West",
+        "Potter 19:",
+        "More",
+        "1600 were"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -96,6 +100,8 @@
         "Poland --[the]--> 2022 Winter",
         "Kreil, --[netherlands:]--> Kreil hamlet",
         "Anarchist --[bombing]--> campaign 1888–1889:",
-        "Louis --[lemercier]--> Neuville: Louis"
+        "Louis --[lemercier]--> Neuville: Louis",
+        "West --[wight]--> Potter 19:",
+        "More --[than]--> 1600 were"
     ]
 }
