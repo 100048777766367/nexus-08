@@ -66,7 +66,11 @@
         "West",
         "Potter 19:",
         "More",
-        "1600 were"
+        "1600 were",
+        "Fnz:",
+        "are Australian",
+        "The",
+        "was"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -102,6 +106,8 @@
         "Anarchist --[bombing]--> campaign 1888–1889:",
         "Louis --[lemercier]--> Neuville: Louis",
         "West --[wight]--> Potter 19:",
-        "More --[than]--> 1600 were"
+        "More --[than]--> 1600 were",
+        "Fnz: --[fnz]--> are Australian",
+        "The --[group]--> was"
     ]
 }
