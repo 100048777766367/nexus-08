@@ -70,7 +70,9 @@
         "Fnz:",
         "are Australian",
         "The",
-        "was"
+        "was",
+        "Battle",
+        "Bridge: The"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -108,6 +110,7 @@
         "West --[wight]--> Potter 19:",
         "More --[than]--> 1600 were",
         "Fnz: --[fnz]--> are Australian",
-        "The --[group]--> was"
+        "The --[group]--> was",
+        "Battle --[the]--> Bridge: The"
     ]
 }
