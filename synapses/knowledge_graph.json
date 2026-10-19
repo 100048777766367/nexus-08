@@ -84,7 +84,11 @@
         "Sinlap:",
         "shallow impact",
         "Located",
-        "Fensal region,"
+        "Fensal region,",
+        "Yavne'el:",
+        "moshava and",
+        "Founded",
+        "one the"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -129,6 +133,8 @@
         "Karl --[ernst]--> von Baer:",
         "Baer --[was]--> naturalist, biologis",
         "Sinlap: --[sinlap]--> shallow impact",
-        "Located --[the]--> Fensal region,"
+        "Located --[the]--> Fensal region,",
+        "Yavne'el: --[yavne'el]--> moshava and",
+        "Founded --[1901,]--> one the"
     ]
 }
