@@ -80,7 +80,11 @@
         "Karl",
         "von Baer:",
         "Baer",
-        "naturalist, biologis"
+        "naturalist, biologis",
+        "Sinlap:",
+        "shallow impact",
+        "Located",
+        "Fensal region,"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -123,6 +127,8 @@
         "Noil: --[noil]--> refers the",
         "These --[fibers]--> are often",
         "Karl --[ernst]--> von Baer:",
-        "Baer --[was]--> naturalist, biologis"
+        "Baer --[was]--> naturalist, biologis",
+        "Sinlap: --[sinlap]--> shallow impact",
+        "Located --[the]--> Fensal region,"
     ]
 }
