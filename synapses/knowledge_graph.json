@@ -76,7 +76,11 @@
         "Noil:",
         "refers the",
         "These",
-        "are often"
+        "are often",
+        "Karl",
+        "von Baer:",
+        "Baer",
+        "naturalist, biologis"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -117,6 +121,8 @@
         "The --[group]--> was",
         "Battle --[the]--> Bridge: The",
         "Noil: --[noil]--> refers the",
-        "These --[fibers]--> are often"
+        "These --[fibers]--> are often",
+        "Karl --[ernst]--> von Baer:",
+        "Baer --[was]--> naturalist, biologis"
     ]
 }
