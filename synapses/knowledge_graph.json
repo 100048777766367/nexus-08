@@ -93,7 +93,8 @@
         "(Philadelphia): Chestnut",
         "named Wynne",
         "Arkansas",
-        "116: Highway"
+        "116: Highway",
+        "Whirlwind: The"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -143,6 +144,7 @@
         "Founded --[1901,]--> one the",
         "Chestnut --[street]--> (Philadelphia): Chestnut",
         "Was --[originally]--> named Wynne",
-        "Arkansas --[highway]--> 116: Highway"
+        "Arkansas --[highway]--> 116: Highway",
+        "The --[arizona]--> Whirlwind: The"
     ]
 }
