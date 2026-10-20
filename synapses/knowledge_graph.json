@@ -88,7 +88,10 @@
         "Yavne'el:",
         "moshava and",
         "Founded",
-        "one the"
+        "one the",
+        "Chestnut",
+        "(Philadelphia): Chestnut",
+        "named Wynne"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -135,6 +138,8 @@
         "Sinlap: --[sinlap]--> shallow impact",
         "Located --[the]--> Fensal region,",
         "Yavne'el: --[yavne'el]--> moshava and",
-        "Founded --[1901,]--> one the"
+        "Founded --[1901,]--> one the",
+        "Chestnut --[street]--> (Philadelphia): Chestnut",
+        "Was --[originally]--> named Wynne"
     ]
 }
