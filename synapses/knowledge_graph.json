@@ -94,7 +94,11 @@
         "named Wynne",
         "Arkansas",
         "116: Highway",
-        "Whirlwind: The"
+        "Whirlwind: The",
+        "South",
+        "Residential District:",
+        "Composed",
+        "bounded"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -145,6 +149,8 @@
         "Chestnut --[street]--> (Philadelphia): Chestnut",
         "Was --[originally]--> named Wynne",
         "Arkansas --[highway]--> 116: Highway",
-        "The --[arizona]--> Whirlwind: The"
+        "The --[arizona]--> Whirlwind: The",
+        "South --[bartow]--> Residential District:",
+        "Composed --[area]--> bounded"
     ]
 }
