@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "for Oxygenate",
-        "Gallman:",
         "John Gallman",
         "Little",
         "The Dream",
@@ -99,7 +97,9 @@
         "Composed",
         "bounded",
         "Vivaldi's",
-        "Vivaldi’s Cello"
+        "Vivaldi’s Cello",
+        "Christopher",
+        "Smith: Sir"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -153,6 +153,7 @@
         "The --[arizona]--> Whirlwind: The",
         "South --[bartow]--> Residential District:",
         "Composed --[area]--> bounded",
-        "Vivaldi's --[cello:]--> Vivaldi’s Cello"
+        "Vivaldi's --[cello:]--> Vivaldi’s Cello",
+        "Christopher --[llewellyn]--> Smith: Sir"
     ]
 }
