@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "You: Wanna",
-        "Malin",
         "Malin Sandberg",
         "Mark",
         "Mark Dresser",
@@ -99,7 +97,9 @@
         "Liveship",
         "The Liveship",
         "Nautical",
-        "series, the"
+        "series, the",
+        "Corning,",
+        "Corning hamlet"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -156,6 +156,7 @@
         "Vivaldi's --[cello:]--> Vivaldi’s Cello",
         "Christopher --[llewellyn]--> Smith: Sir",
         "Liveship --[traders:]--> The Liveship",
-        "Nautical --[fantasy]--> series, the"
+        "Nautical --[fantasy]--> series, the",
+        "Corning, --[saskatchewan:]--> Corning hamlet"
     ]
 }
