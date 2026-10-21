@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Reformulated",
         "for Oxygenate",
         "Gallman:",
         "John Gallman",
@@ -98,7 +97,9 @@
         "South",
         "Residential District:",
         "Composed",
-        "bounded"
+        "bounded",
+        "Vivaldi's",
+        "Vivaldi’s Cello"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -151,6 +152,7 @@
         "Arkansas --[highway]--> 116: Highway",
         "The --[arizona]--> Whirlwind: The",
         "South --[bartow]--> Residential District:",
-        "Composed --[area]--> bounded"
+        "Composed --[area]--> bounded",
+        "Vivaldi's --[cello:]--> Vivaldi’s Cello"
     ]
 }
