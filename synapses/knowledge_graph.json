@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "John Gallman",
-        "Little",
-        "The Dream",
-        "Wanna",
         "You: Wanna",
         "Malin",
         "Malin Sandberg",
@@ -99,7 +95,11 @@
         "Vivaldi's",
         "Vivaldi’s Cello",
         "Christopher",
-        "Smith: Sir"
+        "Smith: Sir",
+        "Liveship",
+        "The Liveship",
+        "Nautical",
+        "series, the"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -154,6 +154,8 @@
         "South --[bartow]--> Residential District:",
         "Composed --[area]--> bounded",
         "Vivaldi's --[cello:]--> Vivaldi’s Cello",
-        "Christopher --[llewellyn]--> Smith: Sir"
+        "Christopher --[llewellyn]--> Smith: Sir",
+        "Liveship --[traders:]--> The Liveship",
+        "Nautical --[fantasy]--> series, the"
     ]
 }
