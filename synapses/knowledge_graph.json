@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "are lignans",
-        "Maigret",
         "the Headless",
         "Originally",
         "French",
@@ -99,7 +97,9 @@
         "Church",
         "Biddenham: Church",
         "Became",
-        "building Jul"
+        "building Jul",
+        "Kaiser:",
+        "John Kaiser"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -159,6 +159,7 @@
         "Nautical --[fantasy]--> series, the",
         "Corning, --[saskatchewan:]--> Corning hamlet",
         "Church --[james,]--> Biddenham: Church",
-        "Became --[listed]--> building Jul"
+        "Became --[listed]--> building Jul",
+        "Kaiser: --[henry]--> John Kaiser"
     ]
 }
