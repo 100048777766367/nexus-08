@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "the Headless",
-        "Originally",
-        "French",
-        "Gonna",
         "Go!: \"Gonna",
         "This",
         "group's third",
@@ -99,7 +95,11 @@
         "Became",
         "building Jul",
         "Kaiser:",
-        "John Kaiser"
+        "John Kaiser",
+        "Barn:",
+        "agricultural building",
+        "North",
+        "barn refers"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -160,6 +160,8 @@
         "Corning, --[saskatchewan:]--> Corning hamlet",
         "Church --[james,]--> Biddenham: Church",
         "Became --[listed]--> building Jul",
-        "Kaiser: --[henry]--> John Kaiser"
+        "Kaiser: --[henry]--> John Kaiser",
+        "Barn: --[barn]--> agricultural building",
+        "North --[america,]--> barn refers"
     ]
 }
