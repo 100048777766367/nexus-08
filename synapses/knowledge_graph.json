@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Malin Sandberg",
-        "Mark",
-        "Mark Dresser",
-        "Interiotherin:",
         "are lignans",
         "Maigret",
         "the Headless",
@@ -99,7 +95,11 @@
         "Nautical",
         "series, the",
         "Corning,",
-        "Corning hamlet"
+        "Corning hamlet",
+        "Church",
+        "Biddenham: Church",
+        "Became",
+        "building Jul"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -157,6 +157,8 @@
         "Christopher --[llewellyn]--> Smith: Sir",
         "Liveship --[traders:]--> The Liveship",
         "Nautical --[fantasy]--> series, the",
-        "Corning, --[saskatchewan:]--> Corning hamlet"
+        "Corning, --[saskatchewan:]--> Corning hamlet",
+        "Church --[james,]--> Biddenham: Church",
+        "Became --[listed]--> building Jul"
     ]
 }
