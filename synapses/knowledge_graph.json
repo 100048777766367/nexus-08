@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Go!: \"Gonna",
-        "This",
-        "group's third",
-        "With",
         "Stick Blackpool",
         "Deanville,",
         "Deanville unincorporated",
@@ -99,7 +95,11 @@
         "Barn:",
         "agricultural building",
         "North",
-        "barn refers"
+        "barn refers",
+        "Working",
+        "working group",
+        "Such",
+        "are domain-specific"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -162,6 +162,8 @@
         "Became --[listed]--> building Jul",
         "Kaiser: --[henry]--> John Kaiser",
         "Barn: --[barn]--> agricultural building",
-        "North --[america,]--> barn refers"
+        "North --[america,]--> barn refers",
+        "Working --[group:]--> working group",
+        "Such --[groups]--> are domain-specific"
     ]
 }
