@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Portrait",
-        "Robert Peel:",
         "Peter",
         "Peter Jasper",
         "Also",
@@ -99,7 +97,9 @@
         "Cemetery Boys",
         "Victor",
         "Victor Ciocâltea",
-        "the International"
+        "the International",
+        "Middle",
+        "Middle Shabelle"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -168,6 +168,7 @@
         "Thomas --[wentworth,]--> 1st Baron",
         "Cemetery --[boys:]--> Cemetery Boys",
         "Victor --[ciocâltea:]--> Victor Ciocâltea",
-        "Was --[awarded]--> the International"
+        "Was --[awarded]--> the International",
+        "Middle --[shabelle:]--> Middle Shabelle"
     ]
 }
