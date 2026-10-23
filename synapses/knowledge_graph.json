@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "commune the",
-        "Chitty",
-        "Bang Bang",
         "Portrait",
         "Robert Peel:",
         "Peter",
@@ -99,7 +96,10 @@
         "Thomas",
         "1st Baron",
         "Cemetery",
-        "Cemetery Boys"
+        "Cemetery Boys",
+        "Victor",
+        "Victor Ciocâltea",
+        "the International"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -166,6 +166,8 @@
         "Working --[group:]--> working group",
         "Such --[groups]--> are domain-specific",
         "Thomas --[wentworth,]--> 1st Baron",
-        "Cemetery --[boys:]--> Cemetery Boys"
+        "Cemetery --[boys:]--> Cemetery Boys",
+        "Victor --[ciocâltea:]--> Victor Ciocâltea",
+        "Was --[awarded]--> the International"
     ]
 }
