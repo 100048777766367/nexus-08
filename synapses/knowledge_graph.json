@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Deanville unincorporated",
-        "Lengelsheim:",
         "commune the",
         "Chitty",
         "Bang Bang",
@@ -99,7 +97,9 @@
         "Such",
         "are domain-specific",
         "Thomas",
-        "1st Baron"
+        "1st Baron",
+        "Cemetery",
+        "Cemetery Boys"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -165,6 +165,7 @@
         "North --[america,]--> barn refers",
         "Working --[group:]--> working group",
         "Such --[groups]--> are domain-specific",
-        "Thomas --[wentworth,]--> 1st Baron"
+        "Thomas --[wentworth,]--> 1st Baron",
+        "Cemetery --[boys:]--> Cemetery Boys"
     ]
 }
