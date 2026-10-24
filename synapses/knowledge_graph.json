@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Also",
-        "former bishop",
-        "Budge",
-        "Institute Technology:",
         "Rolls-royce",
         "Wraith: The",
         "Was",
@@ -99,7 +95,11 @@
         "Middle",
         "Middle Shabelle",
         "Azra",
-        "Azra the"
+        "Azra the",
+        "Agathe,",
+        "Ste",
+        "Agathe",
+        "francophone community"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -170,6 +170,8 @@
         "Victor --[ciocâltea:]--> Victor Ciocâltea",
         "Was --[awarded]--> the International",
         "Middle --[shabelle:]--> Middle Shabelle",
-        "Azra --[(album):]--> Azra the"
+        "Azra --[(album):]--> Azra the",
+        "Agathe, --[manitoba:]--> Ste",
+        "Agathe --[primarily]--> francophone community"
     ]
 }
