@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Peter",
-        "Peter Jasper",
         "Also",
         "former bishop",
         "Budge",
@@ -99,7 +97,9 @@
         "Victor Ciocâltea",
         "the International",
         "Middle",
-        "Middle Shabelle"
+        "Middle Shabelle",
+        "Azra",
+        "Azra the"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -169,6 +169,7 @@
         "Cemetery --[boys:]--> Cemetery Boys",
         "Victor --[ciocâltea:]--> Victor Ciocâltea",
         "Was --[awarded]--> the International",
-        "Middle --[shabelle:]--> Middle Shabelle"
+        "Middle --[shabelle:]--> Middle Shabelle",
+        "Azra --[(album):]--> Azra the"
     ]
 }
