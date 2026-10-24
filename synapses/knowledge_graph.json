@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Rolls-royce",
-        "Wraith: The",
-        "Was",
-        "from 1946",
         "Jerry",
         "Jerry Broome",
         "First",
@@ -99,7 +95,11 @@
         "Agathe,",
         "Ste",
         "Agathe",
-        "francophone community"
+        "francophone community",
+        "Zohar",
+        "Zohar Fresco",
+        "Known",
+        "his personal"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -172,6 +172,8 @@
         "Middle --[shabelle:]--> Middle Shabelle",
         "Azra --[(album):]--> Azra the",
         "Agathe, --[manitoba:]--> Ste",
-        "Agathe --[primarily]--> francophone community"
+        "Agathe --[primarily]--> francophone community",
+        "Zohar --[fresco:]--> Zohar Fresco",
+        "Known --[for]--> his personal"
     ]
 }
