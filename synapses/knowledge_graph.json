@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Jerry",
-        "Jerry Broome",
         "First",
         "the short",
         "Fernando",
@@ -99,7 +97,9 @@
         "Zohar",
         "Zohar Fresco",
         "Known",
-        "his personal"
+        "his personal",
+        "Bobby",
+        "(politician): Bobby"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -174,6 +174,7 @@
         "Agathe, --[manitoba:]--> Ste",
         "Agathe --[primarily]--> francophone community",
         "Zohar --[fresco:]--> Zohar Fresco",
-        "Known --[for]--> his personal"
+        "Known --[for]--> his personal",
+        "Bobby --[powell]--> (politician): Bobby"
     ]
 }
