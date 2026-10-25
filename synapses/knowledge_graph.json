@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "First",
-        "the short",
         "Fernando",
         "Fernando Verdasco",
         "world",
@@ -99,7 +97,9 @@
         "Known",
         "his personal",
         "Bobby",
-        "(politician): Bobby"
+        "(politician): Bobby",
+        "Robertson",
+        "The Robertson"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -175,6 +175,7 @@
         "Agathe --[primarily]--> francophone community",
         "Zohar --[fresco:]--> Zohar Fresco",
         "Known --[for]--> his personal",
-        "Bobby --[powell]--> (politician): Bobby"
+        "Bobby --[powell]--> (politician): Bobby",
+        "Robertson --[library:]--> The Robertson"
     ]
 }
