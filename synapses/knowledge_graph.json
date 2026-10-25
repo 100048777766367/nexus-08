@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Fernando",
-        "Fernando Verdasco",
         "world",
         "Tió",
         "The Tió",
@@ -99,7 +97,9 @@
         "Bobby",
         "(politician): Bobby",
         "Robertson",
-        "The Robertson"
+        "The Robertson",
+        "Cora",
+        "Cora Lynn"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -176,6 +176,7 @@
         "Zohar --[fresco:]--> Zohar Fresco",
         "Known --[for]--> his personal",
         "Bobby --[powell]--> (politician): Bobby",
-        "Robertson --[library:]--> The Robertson"
+        "Robertson --[library:]--> The Robertson",
+        "Cora --[lynn:]--> Cora Lynn"
     ]
 }
