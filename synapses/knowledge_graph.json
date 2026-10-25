@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "world",
-        "Tió",
         "The Tió",
         "Phydanis:",
         "genus flea",
@@ -99,7 +97,9 @@
         "Robertson",
         "The Robertson",
         "Cora",
-        "Cora Lynn"
+        "Cora Lynn",
+        "Ahmad",
+        "(professor): Ahmad"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -177,6 +177,7 @@
         "Known --[for]--> his personal",
         "Bobby --[powell]--> (politician): Bobby",
         "Robertson --[library:]--> The Robertson",
-        "Cora --[lynn:]--> Cora Lynn"
+        "Cora --[lynn:]--> Cora Lynn",
+        "Ahmad --[khatami]--> (professor): Ahmad"
     ]
 }
