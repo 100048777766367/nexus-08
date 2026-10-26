@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Kreil hamlet",
-        "Anarchist",
         "campaign 1888–1889:",
         "Louis",
         "Neuville: Louis",
@@ -99,7 +97,9 @@
         "Erbéviller-sur-amezule:",
         "commune the",
         "Sarraméa:",
-        "landlocked commune"
+        "landlocked commune",
+        "Chartered",
+        "Public Finance"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -182,6 +182,7 @@
         "Pita --[ahki:]--> Pita Jordan",
         "Born --[new]--> Zealan",
         "Erbéviller-sur-amezule: --[erbéviller-sur-amezule]--> commune the",
-        "Sarraméa: --[sarraméa]--> landlocked commune"
+        "Sarraméa: --[sarraméa]--> landlocked commune",
+        "Chartered --[institute]--> Public Finance"
     ]
 }
