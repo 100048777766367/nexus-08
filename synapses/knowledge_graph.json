@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "two described",
-        "Poland",
         "2022 Winter",
         "Kreil,",
         "Kreil hamlet",
@@ -99,7 +97,9 @@
         "Pita",
         "Pita Jordan",
         "Born",
-        "Zealan"
+        "Zealan",
+        "Erbéviller-sur-amezule:",
+        "commune the"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -180,6 +180,7 @@
         "Cora --[lynn:]--> Cora Lynn",
         "Ahmad --[khatami]--> (professor): Ahmad",
         "Pita --[ahki:]--> Pita Jordan",
-        "Born --[new]--> Zealan"
+        "Born --[new]--> Zealan",
+        "Erbéviller-sur-amezule: --[erbéviller-sur-amezule]--> commune the"
     ]
 }
