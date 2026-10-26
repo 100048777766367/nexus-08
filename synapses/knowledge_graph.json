@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "2022 Winter",
-        "Kreil,",
         "Kreil hamlet",
         "Anarchist",
         "campaign 1888–1889:",
@@ -99,7 +97,9 @@
         "Born",
         "Zealan",
         "Erbéviller-sur-amezule:",
-        "commune the"
+        "commune the",
+        "Sarraméa:",
+        "landlocked commune"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -181,6 +181,7 @@
         "Ahmad --[khatami]--> (professor): Ahmad",
         "Pita --[ahki:]--> Pita Jordan",
         "Born --[new]--> Zealan",
-        "Erbéviller-sur-amezule: --[erbéviller-sur-amezule]--> commune the"
+        "Erbéviller-sur-amezule: --[erbéviller-sur-amezule]--> commune the",
+        "Sarraméa: --[sarraméa]--> landlocked commune"
     ]
 }
