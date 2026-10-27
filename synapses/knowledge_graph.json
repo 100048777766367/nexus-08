@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "More",
-        "1600 were",
-        "Fnz:",
-        "are Australian",
         "The",
         "was",
         "Battle",
@@ -99,7 +95,11 @@
         "Dakota: Makoti",
         "was 148",
         "Pontia",
-        "Pontia edusa,"
+        "Pontia edusa,",
+        "2008",
+        "Life Open:",
+        "Was",
+        "35th edition"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -186,6 +186,8 @@
         "Chartered --[institute]--> Public Finance",
         "Makoti, --[north]--> Dakota: Makoti",
         "The --[population]--> was 148",
-        "Pontia --[edusa:]--> Pontia edusa,"
+        "Pontia --[edusa:]--> Pontia edusa,",
+        "2008 --[pacific]--> Life Open:",
+        "Was --[the]--> 35th edition"
     ]
 }
