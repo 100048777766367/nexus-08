@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "West",
-        "Potter 19:",
         "More",
         "1600 were",
         "Fnz:",
@@ -99,7 +97,9 @@
         "Public Finance",
         "Makoti,",
         "Dakota: Makoti",
-        "was 148"
+        "was 148",
+        "Pontia",
+        "Pontia edusa,"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -185,6 +185,7 @@
         "Sarraméa: --[sarraméa]--> landlocked commune",
         "Chartered --[institute]--> Public Finance",
         "Makoti, --[north]--> Dakota: Makoti",
-        "The --[population]--> was 148"
+        "The --[population]--> was 148",
+        "Pontia --[edusa:]--> Pontia edusa,"
     ]
 }
