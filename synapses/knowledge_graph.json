@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "campaign 1888–1889:",
-        "Louis",
-        "Neuville: Louis",
         "West",
         "Potter 19:",
         "More",
@@ -99,7 +96,10 @@
         "Sarraméa:",
         "landlocked commune",
         "Chartered",
-        "Public Finance"
+        "Public Finance",
+        "Makoti,",
+        "Dakota: Makoti",
+        "was 148"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -183,6 +183,8 @@
         "Born --[new]--> Zealan",
         "Erbéviller-sur-amezule: --[erbéviller-sur-amezule]--> commune the",
         "Sarraméa: --[sarraméa]--> landlocked commune",
-        "Chartered --[institute]--> Public Finance"
+        "Chartered --[institute]--> Public Finance",
+        "Makoti, --[north]--> Dakota: Makoti",
+        "The --[population]--> was 148"
     ]
 }
