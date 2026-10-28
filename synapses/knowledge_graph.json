@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "These",
-        "are often",
         "Karl",
         "von Baer:",
         "Baer",
@@ -99,7 +97,9 @@
         "Pinacolborane:",
         "the borane",
         "Often",
-        "abbreviated HBpin"
+        "abbreviated HBpin",
+        "Yu-gi-oh!",
+        "Yu-Gi-Oh! Rush!!"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -191,6 +191,7 @@
         "Was --[the]--> 35th edition",
         "Mikhail --[svetlov]--> (bass): Mikhail",
         "Pinacolborane: --[pinacolborane]--> the borane",
-        "Often --[pinacolborane]--> abbreviated HBpin"
+        "Often --[pinacolborane]--> abbreviated HBpin",
+        "Yu-gi-oh! --[rush!!:]--> Yu-Gi-Oh! Rush!!"
     ]
 }
