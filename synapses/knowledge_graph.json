@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Battle",
-        "Bridge: The",
-        "Noil:",
-        "refers the",
         "These",
         "are often",
         "Karl",
@@ -99,7 +95,11 @@
         "Was",
         "35th edition",
         "Mikhail",
-        "(bass): Mikhail"
+        "(bass): Mikhail",
+        "Pinacolborane:",
+        "the borane",
+        "Often",
+        "abbreviated HBpin"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -189,6 +189,8 @@
         "Pontia --[edusa:]--> Pontia edusa,",
         "2008 --[pacific]--> Life Open:",
         "Was --[the]--> 35th edition",
-        "Mikhail --[svetlov]--> (bass): Mikhail"
+        "Mikhail --[svetlov]--> (bass): Mikhail",
+        "Pinacolborane: --[pinacolborane]--> the borane",
+        "Often --[pinacolborane]--> abbreviated HBpin"
     ]
 }
