@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The",
-        "was",
         "Battle",
         "Bridge: The",
         "Noil:",
@@ -99,7 +97,9 @@
         "2008",
         "Life Open:",
         "Was",
-        "35th edition"
+        "35th edition",
+        "Mikhail",
+        "(bass): Mikhail"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -188,6 +188,7 @@
         "The --[population]--> was 148",
         "Pontia --[edusa:]--> Pontia edusa,",
         "2008 --[pacific]--> Life Open:",
-        "Was --[the]--> 35th edition"
+        "Was --[the]--> 35th edition",
+        "Mikhail --[svetlov]--> (bass): Mikhail"
     ]
 }
