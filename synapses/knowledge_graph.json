@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Located",
-        "Fensal region,",
         "Yavne'el:",
         "moshava and",
         "Founded",
@@ -99,7 +97,9 @@
         "Ferdinand",
         "Ferdinand Leffler",
         "The",
-        "Flera landscape"
+        "Flera landscape",
+        "Bieganowo",
+        "Bieganowo Palace"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -195,6 +195,7 @@
         "Yu-gi-oh! --[rush!!:]--> Yu-Gi-Oh! Rush!!",
         "Wood --[scraper]--> block: wood",
         "Ferdinand --[leffler:]--> Ferdinand Leffler",
-        "The --[founder]--> Flera landscape"
+        "The --[founder]--> Flera landscape",
+        "Bieganowo --[palace:]--> Bieganowo Palace"
     ]
 }
