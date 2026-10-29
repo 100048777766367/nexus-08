@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Karl",
-        "von Baer:",
         "Baer",
         "naturalist, biologis",
         "Sinlap:",
@@ -99,7 +97,9 @@
         "Often",
         "abbreviated HBpin",
         "Yu-gi-oh!",
-        "Yu-Gi-Oh! Rush!!"
+        "Yu-Gi-Oh! Rush!!",
+        "Wood",
+        "block: wood"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -192,6 +192,7 @@
         "Mikhail --[svetlov]--> (bass): Mikhail",
         "Pinacolborane: --[pinacolborane]--> the borane",
         "Often --[pinacolborane]--> abbreviated HBpin",
-        "Yu-gi-oh! --[rush!!:]--> Yu-Gi-Oh! Rush!!"
+        "Yu-gi-oh! --[rush!!:]--> Yu-Gi-Oh! Rush!!",
+        "Wood --[scraper]--> block: wood"
     ]
 }
