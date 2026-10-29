@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Baer",
-        "naturalist, biologis",
-        "Sinlap:",
-        "shallow impact",
         "Located",
         "Fensal region,",
         "Yavne'el:",
@@ -99,7 +95,11 @@
         "Yu-gi-oh!",
         "Yu-Gi-Oh! Rush!!",
         "Wood",
-        "block: wood"
+        "block: wood",
+        "Ferdinand",
+        "Ferdinand Leffler",
+        "The",
+        "Flera landscape"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -193,6 +193,8 @@
         "Pinacolborane: --[pinacolborane]--> the borane",
         "Often --[pinacolborane]--> abbreviated HBpin",
         "Yu-gi-oh! --[rush!!:]--> Yu-Gi-Oh! Rush!!",
-        "Wood --[scraper]--> block: wood"
+        "Wood --[scraper]--> block: wood",
+        "Ferdinand --[leffler:]--> Ferdinand Leffler",
+        "The --[founder]--> Flera landscape"
     ]
 }
