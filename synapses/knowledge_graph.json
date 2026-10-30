@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Founded",
-        "one the",
         "Chestnut",
         "(Philadelphia): Chestnut",
         "named Wynne",
@@ -99,7 +97,9 @@
         "Bieganowo",
         "Bieganowo Palace",
         "Buckingham",
-        "Garden: Buckingham"
+        "Garden: Buckingham",
+        "Now",
+        "Played: Now"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -197,6 +197,7 @@
         "Ferdinand --[leffler:]--> Ferdinand Leffler",
         "The --[founder]--> Flera landscape",
         "Bieganowo --[palace:]--> Bieganowo Palace",
-        "Buckingham --[palace]--> Garden: Buckingham"
+        "Buckingham --[palace]--> Garden: Buckingham",
+        "Now --[can]--> Played: Now"
     ]
 }
