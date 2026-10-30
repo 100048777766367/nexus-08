@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Chestnut",
-        "(Philadelphia): Chestnut",
-        "named Wynne",
-        "Arkansas",
         "116: Highway",
         "Whirlwind: The",
         "South",
@@ -99,7 +95,11 @@
         "Buckingham",
         "Garden: Buckingham",
         "Now",
-        "Played: Now"
+        "Played: Now",
+        "Sparrmannia",
+        "Sparrmannia flava",
+        "Found",
+        "South Africa,"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -198,6 +198,8 @@
         "The --[founder]--> Flera landscape",
         "Bieganowo --[palace:]--> Bieganowo Palace",
         "Buckingham --[palace]--> Garden: Buckingham",
-        "Now --[can]--> Played: Now"
+        "Now --[can]--> Played: Now",
+        "Sparrmannia --[flava:]--> Sparrmannia flava",
+        "Found --[namibia,]--> South Africa,"
     ]
 }
