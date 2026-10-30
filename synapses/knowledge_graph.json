@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Yavne'el:",
-        "moshava and",
         "Founded",
         "one the",
         "Chestnut",
@@ -99,7 +97,9 @@
         "The",
         "Flera landscape",
         "Bieganowo",
-        "Bieganowo Palace"
+        "Bieganowo Palace",
+        "Buckingham",
+        "Garden: Buckingham"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -196,6 +196,7 @@
         "Wood --[scraper]--> block: wood",
         "Ferdinand --[leffler:]--> Ferdinand Leffler",
         "The --[founder]--> Flera landscape",
-        "Bieganowo --[palace:]--> Bieganowo Palace"
+        "Bieganowo --[palace:]--> Bieganowo Palace",
+        "Buckingham --[palace]--> Garden: Buckingham"
     ]
 }
