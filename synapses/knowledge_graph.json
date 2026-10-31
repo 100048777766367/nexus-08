@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "116: Highway",
-        "Whirlwind: The",
-        "South",
-        "Residential District:",
         "Composed",
         "bounded",
         "Vivaldi's",
@@ -99,7 +95,11 @@
         "Sparrmannia",
         "Sparrmannia flava",
         "Found",
-        "South Africa,"
+        "South Africa,",
+        "Wise",
+        "brown dwarf",
+        "Its",
+        "components have"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -200,6 +200,8 @@
         "Buckingham --[palace]--> Garden: Buckingham",
         "Now --[can]--> Played: Now",
         "Sparrmannia --[flava:]--> Sparrmannia flava",
-        "Found --[namibia,]--> South Africa,"
+        "Found --[namibia,]--> South Africa,",
+        "Wise --[022−−0211]--> brown dwarf",
+        "Its --[individual]--> components have"
     ]
 }
