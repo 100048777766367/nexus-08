@@ -1,11 +1,5 @@
 {
     "nodes": [
-        "Composed",
-        "bounded",
-        "Vivaldi's",
-        "Vivaldi’s Cello",
-        "Christopher",
-        "Smith: Sir",
         "Liveship",
         "The Liveship",
         "Nautical",
@@ -99,7 +93,13 @@
         "Wise",
         "brown dwarf",
         "Its",
-        "components have"
+        "components have",
+        "Alema",
+        "Alema Alema,",
+        "Alema,",
+        "politician",
+        "She",
+        "deputy minister"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -202,6 +202,9 @@
         "Sparrmannia --[flava:]--> Sparrmannia flava",
         "Found --[namibia,]--> South Africa,",
         "Wise --[022−−0211]--> brown dwarf",
-        "Its --[individual]--> components have"
+        "Its --[individual]--> components have",
+        "Alema --[alema:]--> Alema Alema,",
+        "Alema, --[afghani]--> politician",
+        "She --[served]--> deputy minister"
     ]
 }
