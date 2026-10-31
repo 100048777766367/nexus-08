@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Liveship",
-        "The Liveship",
-        "Nautical",
         "series, the",
         "Corning,",
         "Corning hamlet",
@@ -99,7 +96,10 @@
         "Alema,",
         "politician",
         "She",
-        "deputy minister"
+        "deputy minister",
+        "Merridun:",
+        "historic home",
+        "about 1855,"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -205,6 +205,8 @@
         "Its --[individual]--> components have",
         "Alema --[alema:]--> Alema Alema,",
         "Alema, --[afghani]--> politician",
-        "She --[served]--> deputy minister"
+        "She --[served]--> deputy minister",
+        "Merridun: --[merridun]--> historic home",
+        "Was --[built]--> about 1855,"
     ]
 }
