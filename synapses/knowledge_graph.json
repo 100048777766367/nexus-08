@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "series, the",
-        "Corning,",
-        "Corning hamlet",
         "Church",
         "Biddenham: Church",
         "Became",
@@ -99,7 +96,10 @@
         "deputy minister",
         "Merridun:",
         "historic home",
-        "about 1855,"
+        "about 1855,",
+        "Electric",
+        "electric chair",
+        "prisoner strapped"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -207,6 +207,8 @@
         "Alema, --[afghani]--> politician",
         "She --[served]--> deputy minister",
         "Merridun: --[merridun]--> historic home",
-        "Was --[built]--> about 1855,"
+        "Was --[built]--> about 1855,",
+        "Electric --[chair:]--> electric chair",
+        "The --[condemned]--> prisoner strapped"
     ]
 }
