@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Became",
-        "building Jul",
         "Kaiser:",
         "John Kaiser",
         "Barn:",
@@ -99,7 +97,9 @@
         "electric chair",
         "prisoner strapped",
         "Harmony",
-        "and Aura"
+        "and Aura",
+        "2010",
+        "Tour: The"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -210,6 +210,7 @@
         "Was --[built]--> about 1855,",
         "Electric --[chair:]--> electric chair",
         "The --[condemned]--> prisoner strapped",
-        "Harmony --[(fyütch]--> and Aura"
+        "Harmony --[(fyütch]--> and Aura",
+        "2010 --[wta]--> Tour: The"
     ]
 }
