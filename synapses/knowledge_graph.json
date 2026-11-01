@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Church",
-        "Biddenham: Church",
         "Became",
         "building Jul",
         "Kaiser:",
@@ -99,7 +97,9 @@
         "about 1855,",
         "Electric",
         "electric chair",
-        "prisoner strapped"
+        "prisoner strapped",
+        "Harmony",
+        "and Aura"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -209,6 +209,7 @@
         "Merridun: --[merridun]--> historic home",
         "Was --[built]--> about 1855,",
         "Electric --[chair:]--> electric chair",
-        "The --[condemned]--> prisoner strapped"
+        "The --[condemned]--> prisoner strapped",
+        "Harmony --[(fyütch]--> and Aura"
     ]
 }
