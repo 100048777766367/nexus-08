@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Kaiser:",
-        "John Kaiser",
         "Barn:",
         "agricultural building",
         "North",
@@ -99,7 +97,9 @@
         "Harmony",
         "and Aura",
         "2010",
-        "Tour: The"
+        "Tour: The",
+        "Pietro",
+        "Beretta: Pietro"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -211,6 +211,7 @@
         "Electric --[chair:]--> electric chair",
         "The --[condemned]--> prisoner strapped",
         "Harmony --[(fyütch]--> and Aura",
-        "2010 --[wta]--> Tour: The"
+        "2010 --[wta]--> Tour: The",
+        "Pietro --[gussalli]--> Beretta: Pietro"
     ]
 }
