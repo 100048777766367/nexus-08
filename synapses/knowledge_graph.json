@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "working group",
-        "Such",
         "are domain-specific",
         "Thomas",
         "1st Baron",
@@ -99,7 +97,9 @@
         "The Alfred",
         "historic building",
         "Located",
-        "East Flagler"
+        "East Flagler",
+        "Westhausen,",
+        "Westhausen municipality"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -215,6 +215,7 @@
         "Pietro --[gussalli]--> Beretta: Pietro",
         "Dupont --[building:]--> The Alfred",
         "Dupont --[building]--> historic building",
-        "Located --[169]--> East Flagler"
+        "Located --[169]--> East Flagler",
+        "Westhausen, --[hildburghausen:]--> Westhausen municipality"
     ]
 }
