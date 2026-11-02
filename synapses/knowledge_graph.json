@@ -1,10 +1,5 @@
 {
     "nodes": [
-        "Barn:",
-        "agricultural building",
-        "North",
-        "barn refers",
-        "Working",
         "working group",
         "Such",
         "are domain-specific",
@@ -99,7 +94,12 @@
         "2010",
         "Tour: The",
         "Pietro",
-        "Beretta: Pietro"
+        "Beretta: Pietro",
+        "Dupont",
+        "The Alfred",
+        "historic building",
+        "Located",
+        "East Flagler"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -212,6 +212,9 @@
         "The --[condemned]--> prisoner strapped",
         "Harmony --[(fyütch]--> and Aura",
         "2010 --[wta]--> Tour: The",
-        "Pietro --[gussalli]--> Beretta: Pietro"
+        "Pietro --[gussalli]--> Beretta: Pietro",
+        "Dupont --[building:]--> The Alfred",
+        "Dupont --[building]--> historic building",
+        "Located --[169]--> East Flagler"
     ]
 }
