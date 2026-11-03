@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "are domain-specific",
-        "Thomas",
         "1st Baron",
         "Cemetery",
         "Cemetery Boys",
@@ -99,7 +97,9 @@
         "Located",
         "East Flagler",
         "Westhausen,",
-        "Westhausen municipality"
+        "Westhausen municipality",
+        "Chunkz:",
+        "Mohamed, better"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -216,6 +216,7 @@
         "Dupont --[building:]--> The Alfred",
         "Dupont --[building]--> historic building",
         "Located --[169]--> East Flagler",
-        "Westhausen, --[hildburghausen:]--> Westhausen municipality"
+        "Westhausen, --[hildburghausen:]--> Westhausen municipality",
+        "Chunkz: --[amin]--> Mohamed, better"
     ]
 }
