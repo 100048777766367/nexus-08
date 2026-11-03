@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "1st Baron",
-        "Cemetery",
         "Cemetery Boys",
         "Victor",
         "Victor Ciocâltea",
@@ -99,7 +97,9 @@
         "Westhausen,",
         "Westhausen municipality",
         "Chunkz:",
-        "Mohamed, better"
+        "Mohamed, better",
+        "Canterbury",
+        "Canterbury Cathedral"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -217,6 +217,7 @@
         "Dupont --[building]--> historic building",
         "Located --[169]--> East Flagler",
         "Westhausen, --[hildburghausen:]--> Westhausen municipality",
-        "Chunkz: --[amin]--> Mohamed, better"
+        "Chunkz: --[amin]--> Mohamed, better",
+        "Canterbury --[cathedral:]--> Canterbury Cathedral"
     ]
 }
