@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Cemetery Boys",
-        "Victor",
         "Victor Ciocâltea",
         "the International",
         "Middle",
@@ -99,7 +97,9 @@
         "Chunkz:",
         "Mohamed, better",
         "Canterbury",
-        "Canterbury Cathedral"
+        "Canterbury Cathedral",
+        "Southbury",
+        "station: Southbury"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -218,6 +218,7 @@
         "Located --[169]--> East Flagler",
         "Westhausen, --[hildburghausen:]--> Westhausen municipality",
         "Chunkz: --[amin]--> Mohamed, better",
-        "Canterbury --[cathedral:]--> Canterbury Cathedral"
+        "Canterbury --[cathedral:]--> Canterbury Cathedral",
+        "Southbury --[railway]--> station: Southbury"
     ]
 }
