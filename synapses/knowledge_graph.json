@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Victor Ciocâltea",
-        "the International",
         "Middle",
         "Middle Shabelle",
         "Azra",
@@ -99,7 +97,9 @@
         "Canterbury",
         "Canterbury Cathedral",
         "Southbury",
-        "station: Southbury"
+        "station: Southbury",
+        "True:",
+        "William True"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -219,6 +219,7 @@
         "Westhausen, --[hildburghausen:]--> Westhausen municipality",
         "Chunkz: --[amin]--> Mohamed, better",
         "Canterbury --[cathedral:]--> Canterbury Cathedral",
-        "Southbury --[railway]--> station: Southbury"
+        "Southbury --[railway]--> station: Southbury",
+        "True: --[frederick]--> William True"
     ]
 }
