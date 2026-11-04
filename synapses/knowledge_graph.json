@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Azra",
-        "Azra the",
         "Agathe,",
         "Ste",
         "Agathe",
@@ -99,7 +97,9 @@
         "True:",
         "William True",
         "Saia,",
-        "Saia village"
+        "Saia village",
+        "Diocese",
+        "The Roman"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -221,6 +221,7 @@
         "Canterbury --[cathedral:]--> Canterbury Cathedral",
         "Southbury --[railway]--> station: Southbury",
         "True: --[frederick]--> William True",
-        "Saia, --[estonia:]--> Saia village"
+        "Saia, --[estonia:]--> Saia village",
+        "Diocese --[kottar:]--> The Roman"
     ]
 }
