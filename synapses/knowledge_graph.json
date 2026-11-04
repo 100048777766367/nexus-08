@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Middle",
-        "Middle Shabelle",
         "Azra",
         "Azra the",
         "Agathe,",
@@ -99,7 +97,9 @@
         "Southbury",
         "station: Southbury",
         "True:",
-        "William True"
+        "William True",
+        "Saia,",
+        "Saia village"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -220,6 +220,7 @@
         "Chunkz: --[amin]--> Mohamed, better",
         "Canterbury --[cathedral:]--> Canterbury Cathedral",
         "Southbury --[railway]--> station: Southbury",
-        "True: --[frederick]--> William True"
+        "True: --[frederick]--> William True",
+        "Saia, --[estonia:]--> Saia village"
     ]
 }
