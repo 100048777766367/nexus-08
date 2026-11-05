@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Agathe,",
-        "Ste",
         "Agathe",
         "francophone community",
         "Zohar",
@@ -99,7 +97,9 @@
         "Saia,",
         "Saia village",
         "Diocese",
-        "The Roman"
+        "The Roman",
+        "Hmas",
+        "HMAS Gympie"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -222,6 +222,7 @@
         "Southbury --[railway]--> station: Southbury",
         "True: --[frederick]--> William True",
         "Saia, --[estonia:]--> Saia village",
-        "Diocese --[kottar:]--> The Roman"
+        "Diocese --[kottar:]--> The Roman",
+        "Hmas --[gympie:]--> HMAS Gympie"
     ]
 }
