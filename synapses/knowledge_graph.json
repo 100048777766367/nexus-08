@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Zohar",
-        "Zohar Fresco",
-        "Known",
-        "his personal",
         "Bobby",
         "(politician): Bobby",
         "Robertson",
@@ -99,7 +95,11 @@
         "Hmas",
         "HMAS Gympie",
         "Lawrence:",
-        "Barrien Lawrence"
+        "Barrien Lawrence",
+        "Michael",
+        "(basketball, born",
+        "During",
+        "college years,"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -224,6 +224,8 @@
         "Saia, --[estonia:]--> Saia village",
         "Diocese --[kottar:]--> The Roman",
         "Hmas --[gympie:]--> HMAS Gympie",
-        "Lawrence: --[wendy]--> Barrien Lawrence"
+        "Lawrence: --[wendy]--> Barrien Lawrence",
+        "Michael --[smith]--> (basketball, born",
+        "During --[his]--> college years,"
     ]
 }
