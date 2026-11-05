@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Agathe",
-        "francophone community",
         "Zohar",
         "Zohar Fresco",
         "Known",
@@ -99,7 +97,9 @@
         "Diocese",
         "The Roman",
         "Hmas",
-        "HMAS Gympie"
+        "HMAS Gympie",
+        "Lawrence:",
+        "Barrien Lawrence"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -223,6 +223,7 @@
         "True: --[frederick]--> William True",
         "Saia, --[estonia:]--> Saia village",
         "Diocese --[kottar:]--> The Roman",
-        "Hmas --[gympie:]--> HMAS Gympie"
+        "Hmas --[gympie:]--> HMAS Gympie",
+        "Lawrence: --[wendy]--> Barrien Lawrence"
     ]
 }
