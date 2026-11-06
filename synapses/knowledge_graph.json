@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Bobby",
-        "(politician): Bobby",
-        "Robertson",
         "The Robertson",
         "Cora",
         "Cora Lynn",
@@ -99,7 +96,10 @@
         "Michael",
         "(basketball, born",
         "During",
-        "college years,"
+        "college years,",
+        "Midnight",
+        "(album): Midnight",
+        "Universal Music"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -226,6 +226,8 @@
         "Hmas --[gympie:]--> HMAS Gympie",
         "Lawrence: --[wendy]--> Barrien Lawrence",
         "Michael --[smith]--> (basketball, born",
-        "During --[his]--> college years,"
+        "During --[his]--> college years,",
+        "Midnight --[train]--> (album): Midnight",
+        "Was --[released]--> Universal Music"
     ]
 }
