@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "The Robertson",
-        "Cora",
-        "Cora Lynn",
         "Ahmad",
         "(professor): Ahmad",
         "Pita",
@@ -99,7 +96,10 @@
         "college years,",
         "Midnight",
         "(album): Midnight",
-        "Universal Music"
+        "Universal Music",
+        "Chavantes:",
+        "municipality the",
+        "12,418 area"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -228,6 +228,8 @@
         "Michael --[smith]--> (basketball, born",
         "During --[his]--> college years,",
         "Midnight --[train]--> (album): Midnight",
-        "Was --[released]--> Universal Music"
+        "Was --[released]--> Universal Music",
+        "Chavantes: --[chavantes]--> municipality the",
+        "The --[population]--> 12,418 area"
     ]
 }
