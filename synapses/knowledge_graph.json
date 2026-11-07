@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Born",
-        "Zealan",
         "Erbéviller-sur-amezule:",
         "commune the",
         "Sarraméa:",
@@ -99,7 +97,9 @@
         "Loiret's",
         "constituency: The",
         "Like",
-        "other 576"
+        "other 576",
+        "Pristigasteridae:",
+        "family ray-finned"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -232,6 +232,7 @@
         "Chavantes: --[chavantes]--> municipality the",
         "The --[population]--> 12,418 area",
         "Loiret's --[5th]--> constituency: The",
-        "Like --[the]--> other 576"
+        "Like --[the]--> other 576",
+        "Pristigasteridae: --[pristigasteridae]--> family ray-finned"
     ]
 }
