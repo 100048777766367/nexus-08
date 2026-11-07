@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Erbéviller-sur-amezule:",
-        "commune the",
         "Sarraméa:",
         "landlocked commune",
         "Chartered",
@@ -99,7 +97,9 @@
         "Like",
         "other 576",
         "Pristigasteridae:",
-        "family ray-finned"
+        "family ray-finned",
+        "Shafiul",
+        "Shafiul Azam"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -233,6 +233,7 @@
         "The --[population]--> 12,418 area",
         "Loiret's --[5th]--> constituency: The",
         "Like --[the]--> other 576",
-        "Pristigasteridae: --[pristigasteridae]--> family ray-finned"
+        "Pristigasteridae: --[pristigasteridae]--> family ray-finned",
+        "Shafiul --[azam:]--> Shafiul Azam"
     ]
 }
