@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Makoti,",
-        "Dakota: Makoti",
-        "was 148",
-        "Pontia",
         "Pontia edusa,",
         "2008",
         "Life Open:",
@@ -99,7 +95,11 @@
         "Yelena",
         "(Marvel Cinematic",
         "Athbi",
-        "Al-Ahmad Al-Sabah:"
+        "Al-Ahmad Al-Sabah:",
+        "Doug",
+        "(musician): Doug",
+        "Best",
+        "for his"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -236,6 +236,8 @@
         "Pristigasteridae: --[pristigasteridae]--> family ray-finned",
         "Shafiul --[azam:]--> Shafiul Azam",
         "Yelena --[belova]--> (Marvel Cinematic",
-        "Athbi --[fahad]--> Al-Ahmad Al-Sabah:"
+        "Athbi --[fahad]--> Al-Ahmad Al-Sabah:",
+        "Doug --[howard]--> (musician): Doug",
+        "Best --[known]--> for his"
     ]
 }
