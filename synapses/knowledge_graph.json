@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Life Open:",
-        "Was",
         "35th edition",
         "Mikhail",
         "(bass): Mikhail",
@@ -99,7 +97,9 @@
         "Best",
         "for his",
         "Ludwig",
-        "Ludwig Heinrich"
+        "Ludwig Heinrich",
+        "Man: The",
+        "released December"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -239,6 +239,8 @@
         "Athbi --[fahad]--> Al-Ahmad Al-Sabah:",
         "Doug --[howard]--> (musician): Doug",
         "Best --[known]--> for his",
-        "Ludwig --[reh:]--> Ludwig Heinrich"
+        "Ludwig --[reh:]--> Ludwig Heinrich",
+        "The --[missing]--> Man: The",
+        "The --[was]--> released December"
     ]
 }
