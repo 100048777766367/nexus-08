@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Pontia edusa,",
-        "2008",
         "Life Open:",
         "Was",
         "35th edition",
@@ -99,7 +97,9 @@
         "Doug",
         "(musician): Doug",
         "Best",
-        "for his"
+        "for his",
+        "Ludwig",
+        "Ludwig Heinrich"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -238,6 +238,7 @@
         "Yelena --[belova]--> (Marvel Cinematic",
         "Athbi --[fahad]--> Al-Ahmad Al-Sabah:",
         "Doug --[howard]--> (musician): Doug",
-        "Best --[known]--> for his"
+        "Best --[known]--> for his",
+        "Ludwig --[reh:]--> Ludwig Heinrich"
     ]
 }
