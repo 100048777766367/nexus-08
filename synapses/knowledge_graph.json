@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "the borane",
-        "Often",
-        "abbreviated HBpin",
-        "Yu-gi-oh!",
         "Yu-Gi-Oh! Rush!!",
         "Wood",
         "block: wood",
@@ -99,7 +95,11 @@
         "Eugenia",
         "Soriano: María",
         "Born",
-        "she officia"
+        "she officia",
+        "Penny",
+        "The Penny",
+        "Was",
+        "issued the"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -243,6 +243,8 @@
         "The --[missing]--> Man: The",
         "The --[was]--> released December",
         "Eugenia --[gil]--> Soriano: María",
-        "Born --[mérida,]--> she officia"
+        "Born --[mérida,]--> she officia",
+        "Penny --[black:]--> The Penny",
+        "Was --[first]--> issued the"
     ]
 }
