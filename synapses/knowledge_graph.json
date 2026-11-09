@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "35th edition",
-        "Mikhail",
-        "(bass): Mikhail",
-        "Pinacolborane:",
         "the borane",
         "Often",
         "abbreviated HBpin",
@@ -99,7 +95,11 @@
         "Ludwig",
         "Ludwig Heinrich",
         "Man: The",
-        "released December"
+        "released December",
+        "Eugenia",
+        "Soriano: María",
+        "Born",
+        "she officia"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -241,6 +241,8 @@
         "Best --[known]--> for his",
         "Ludwig --[reh:]--> Ludwig Heinrich",
         "The --[missing]--> Man: The",
-        "The --[was]--> released December"
+        "The --[was]--> released December",
+        "Eugenia --[gil]--> Soriano: María",
+        "Born --[mérida,]--> she officia"
     ]
 }
