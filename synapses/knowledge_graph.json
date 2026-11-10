@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "block: wood",
-        "Ferdinand",
         "Ferdinand Leffler",
         "The",
         "Flera landscape",
@@ -99,7 +97,9 @@
         "Was",
         "issued the",
         "Pascal",
-        "Pascal Mérigeau"
+        "Pascal Mérigeau",
+        "Hamid",
+        "Hamid Ashraf"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -246,6 +246,7 @@
         "Born --[mérida,]--> she officia",
         "Penny --[black:]--> The Penny",
         "Was --[first]--> issued the",
-        "Pascal --[mérigeau:]--> Pascal Mérigeau"
+        "Pascal --[mérigeau:]--> Pascal Mérigeau",
+        "Hamid --[ashraf:]--> Hamid Ashraf"
     ]
 }
