@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Ferdinand Leffler",
-        "The",
-        "Flera landscape",
-        "Bieganowo",
         "Bieganowo Palace",
         "Buckingham",
         "Garden: Buckingham",
@@ -99,7 +95,11 @@
         "Pascal",
         "Pascal Mérigeau",
         "Hamid",
-        "Hamid Ashraf"
+        "Hamid Ashraf",
+        "Boone",
+        "School: William",
+        "Built",
+        "the school"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -247,6 +247,8 @@
         "Penny --[black:]--> The Penny",
         "Was --[first]--> issued the",
         "Pascal --[mérigeau:]--> Pascal Mérigeau",
-        "Hamid --[ashraf:]--> Hamid Ashraf"
+        "Hamid --[ashraf:]--> Hamid Ashraf",
+        "Boone --[high]--> School: William",
+        "Built --[1952,]--> the school"
     ]
 }
