@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Yu-Gi-Oh! Rush!!",
-        "Wood",
         "block: wood",
         "Ferdinand",
         "Ferdinand Leffler",
@@ -99,7 +97,9 @@
         "Penny",
         "The Penny",
         "Was",
-        "issued the"
+        "issued the",
+        "Pascal",
+        "Pascal Mérigeau"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -245,6 +245,7 @@
         "Eugenia --[gil]--> Soriano: María",
         "Born --[mérida,]--> she officia",
         "Penny --[black:]--> The Penny",
-        "Was --[first]--> issued the"
+        "Was --[first]--> issued the",
+        "Pascal --[mérigeau:]--> Pascal Mérigeau"
     ]
 }
