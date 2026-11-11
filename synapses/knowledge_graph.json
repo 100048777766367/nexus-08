@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Bieganowo Palace",
-        "Buckingham",
-        "Garden: Buckingham",
         "Now",
         "Played: Now",
         "Sparrmannia",
@@ -99,7 +96,10 @@
         "Boone",
         "School: William",
         "Built",
-        "the school"
+        "the school",
+        "Jurong",
+        "Jurong Island",
+        "through the"
     ],
     "edges": [
         "Reformulated --[blendstock]--> for Oxygenate",
@@ -249,6 +249,8 @@
         "Pascal --[mérigeau:]--> Pascal Mérigeau",
         "Hamid --[ashraf:]--> Hamid Ashraf",
         "Boone --[high]--> School: William",
-        "Built --[1952,]--> the school"
+        "Built --[1952,]--> the school",
+        "Jurong --[island:]--> Jurong Island",
+        "Was --[formed]--> through the"
     ]
 }
