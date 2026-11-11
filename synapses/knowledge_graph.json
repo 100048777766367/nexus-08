@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Now",
-        "Played: Now",
         "Sparrmannia",
         "Sparrmannia flava",
         "Found",
@@ -99,10 +97,11 @@
         "the school",
         "Jurong",
         "Jurong Island",
-        "through the"
+        "through the",
+        "Church",
+        "the Purification,"
     ],
     "edges": [
-        "Reformulated --[blendstock]--> for Oxygenate",
         "Gallman: --[waldemar]--> John Gallman",
         "Little --[nemo:]--> The Dream",
         "Wanna --[hold]--> You: Wanna",
@@ -251,6 +250,7 @@
         "Boone --[high]--> School: William",
         "Built --[1952,]--> the school",
         "Jurong --[island:]--> Jurong Island",
-        "Was --[formed]--> through the"
+        "Was --[formed]--> through the",
+        "Church --[mary]--> the Purification,"
     ]
 }
