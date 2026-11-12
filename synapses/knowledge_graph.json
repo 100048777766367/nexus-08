@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Wise",
-        "brown dwarf",
         "Its",
         "components have",
         "Alema",
@@ -99,10 +97,11 @@
         "Jeremy",
         "Jeremy Ashkenas",
         "Human",
-        "Human metapneumovirus"
+        "Human metapneumovirus",
+        "Trellis",
+        "Trellis netting"
     ],
     "edges": [
-        "Wanna --[hold]--> You: Wanna",
         "Malin --[sandberg:]--> Malin Sandberg",
         "Mark --[dresser:]--> Mark Dresser",
         "Interiotherin: --[interiotherins]--> are lignans",
@@ -251,6 +250,7 @@
         "Was --[formed]--> through the",
         "Church --[mary]--> the Purification,",
         "Jeremy --[ashkenas:]--> Jeremy Ashkenas",
-        "Human --[metapneumovirus:]--> Human metapneumovirus"
+        "Human --[metapneumovirus:]--> Human metapneumovirus",
+        "Trellis --[netting:]--> Trellis netting"
     ]
 }
