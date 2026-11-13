@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Alema,",
-        "politician",
         "She",
         "deputy minister",
         "Merridun:",
@@ -99,10 +97,11 @@
         "Landolphia",
         "Landolphia owariensis",
         "Latex",
-        "extracted"
+        "extracted",
+        "Ras",
+        "Ras Nas,"
     ],
     "edges": [
-        "Interiotherin: --[interiotherins]--> are lignans",
         "Maigret --[and]--> the Headless",
         "Originally --[written]--> French",
         "Gonna --[gonna]--> Go!: \"Gonna",
@@ -251,6 +250,7 @@
         "Human --[metapneumovirus:]--> Human metapneumovirus",
         "Trellis --[netting:]--> Trellis netting",
         "Landolphia --[owariensis:]--> Landolphia owariensis",
-        "Latex --[can]--> extracted"
+        "Latex --[can]--> extracted",
+        "Ras --[nas:]--> Ras Nas,"
     ]
 }
