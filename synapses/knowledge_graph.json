@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Its",
-        "components have",
-        "Alema",
-        "Alema Alema,",
         "Alema,",
         "politician",
         "She",
@@ -99,11 +95,13 @@
         "Human",
         "Human metapneumovirus",
         "Trellis",
-        "Trellis netting"
+        "Trellis netting",
+        "Landolphia",
+        "Landolphia owariensis",
+        "Latex",
+        "extracted"
     ],
     "edges": [
-        "Malin --[sandberg:]--> Malin Sandberg",
-        "Mark --[dresser:]--> Mark Dresser",
         "Interiotherin: --[interiotherins]--> are lignans",
         "Maigret --[and]--> the Headless",
         "Originally --[written]--> French",
@@ -251,6 +249,8 @@
         "Church --[mary]--> the Purification,",
         "Jeremy --[ashkenas:]--> Jeremy Ashkenas",
         "Human --[metapneumovirus:]--> Human metapneumovirus",
-        "Trellis --[netting:]--> Trellis netting"
+        "Trellis --[netting:]--> Trellis netting",
+        "Landolphia --[owariensis:]--> Landolphia owariensis",
+        "Latex --[can]--> extracted"
     ]
 }
