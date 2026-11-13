@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "She",
-        "deputy minister",
         "Merridun:",
         "historic home",
         "about 1855,",
@@ -99,10 +97,11 @@
         "Latex",
         "extracted",
         "Ras",
-        "Ras Nas,"
+        "Ras Nas,",
+        "Rock",
+        "Rock: \"Rock"
     ],
     "edges": [
-        "Maigret --[and]--> the Headless",
         "Originally --[written]--> French",
         "Gonna --[gonna]--> Go!: \"Gonna",
         "This --[the]--> group's third",
@@ -251,6 +250,7 @@
         "Trellis --[netting:]--> Trellis netting",
         "Landolphia --[owariensis:]--> Landolphia owariensis",
         "Latex --[can]--> extracted",
-        "Ras --[nas:]--> Ras Nas,"
+        "Ras --[nas:]--> Ras Nas,",
+        "Rock --[the]--> Rock: \"Rock"
     ]
 }
