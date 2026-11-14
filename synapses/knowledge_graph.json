@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "2010",
-        "Tour: The",
-        "Pietro",
-        "Beretta: Pietro",
         "Dupont",
         "The Alfred",
         "historic building",
@@ -99,11 +95,13 @@
         "Timothy",
         "Timothy Peach",
         "Appeared",
-        "than seventy"
+        "than seventy",
+        "Fellows",
+        "Gardens: Fellows",
+        "The",
+        "are locat"
     ],
     "edges": [
-        "Deanville, --[texas:]--> Deanville unincorporated",
-        "Lengelsheim: --[lengelsheim]--> commune the",
         "Chitty --[chitty]--> Bang Bang",
         "Portrait --[sir]--> Robert Peel:",
         "Peter --[akinola:]--> Peter Jasper",
@@ -251,6 +249,8 @@
         "Stanislaw --[zalewski:]--> Stanislaw Zalewski",
         "Competed --[the]--> mixed metres",
         "Timothy --[peach:]--> Timothy Peach",
-        "Appeared --[more]--> than seventy"
+        "Appeared --[more]--> than seventy",
+        "Fellows --[riverside]--> Gardens: Fellows",
+        "The --[gardens]--> are locat"
     ]
 }
