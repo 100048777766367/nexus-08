@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "electric chair",
-        "prisoner strapped",
-        "Harmony",
-        "and Aura",
         "2010",
         "Tour: The",
         "Pietro",
@@ -99,11 +95,13 @@
         "Stanislaw",
         "Stanislaw Zalewski",
         "Competed",
-        "mixed metres"
+        "mixed metres",
+        "Timothy",
+        "Timothy Peach",
+        "Appeared",
+        "than seventy"
     ],
     "edges": [
-        "This --[the]--> group's third",
-        "With --[little]--> Stick Blackpool",
         "Deanville, --[texas:]--> Deanville unincorporated",
         "Lengelsheim: --[lengelsheim]--> commune the",
         "Chitty --[chitty]--> Bang Bang",
@@ -251,6 +249,8 @@
         "Ras --[nas:]--> Ras Nas,",
         "Rock --[the]--> Rock: \"Rock",
         "Stanislaw --[zalewski:]--> Stanislaw Zalewski",
-        "Competed --[the]--> mixed metres"
+        "Competed --[the]--> mixed metres",
+        "Timothy --[peach:]--> Timothy Peach",
+        "Appeared --[more]--> than seventy"
     ]
 }
