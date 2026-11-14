@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Merridun:",
-        "historic home",
-        "about 1855,",
-        "Electric",
         "electric chair",
         "prisoner strapped",
         "Harmony",
@@ -99,11 +95,13 @@
         "Ras",
         "Ras Nas,",
         "Rock",
-        "Rock: \"Rock"
+        "Rock: \"Rock",
+        "Stanislaw",
+        "Stanislaw Zalewski",
+        "Competed",
+        "mixed metres"
     ],
     "edges": [
-        "Originally --[written]--> French",
-        "Gonna --[gonna]--> Go!: \"Gonna",
         "This --[the]--> group's third",
         "With --[little]--> Stick Blackpool",
         "Deanville, --[texas:]--> Deanville unincorporated",
@@ -251,6 +249,8 @@
         "Landolphia --[owariensis:]--> Landolphia owariensis",
         "Latex --[can]--> extracted",
         "Ras --[nas:]--> Ras Nas,",
-        "Rock --[the]--> Rock: \"Rock"
+        "Rock --[the]--> Rock: \"Rock",
+        "Stanislaw --[zalewski:]--> Stanislaw Zalewski",
+        "Competed --[the]--> mixed metres"
     ]
 }
