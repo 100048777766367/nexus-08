@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Canterbury",
-        "Canterbury Cathedral",
         "Southbury",
         "station: Southbury",
         "True:",
@@ -99,10 +97,11 @@
         "This",
         "features gorgeous",
         "Dr1",
-        "DR1 solitary"
+        "DR1 solitary",
+        "Uss",
+        "(AM-27): USS"
     ],
     "edges": [
-        "Rolls-royce --[silver]--> Wraith: The",
         "Was --[made]--> from 1946",
         "Jerry --[broome:]--> Jerry Broome",
         "First --[starred]--> the short",
@@ -251,6 +250,7 @@
         "The --[fetus,]--> extends into",
         "Resistiré --[(argentine]--> series): Resistiré",
         "This --[serial]--> features gorgeous",
-        "Dr1 --[(star):]--> DR1 solitary"
+        "Dr1 --[(star):]--> DR1 solitary",
+        "Uss --[pelican]--> (AM-27): USS"
     ]
 }
