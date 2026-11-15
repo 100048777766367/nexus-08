@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Chunkz:",
-        "Mohamed, better",
         "Canterbury",
         "Canterbury Cathedral",
         "Southbury",
@@ -99,10 +97,11 @@
         "Resistiré",
         "series): Resistiré",
         "This",
-        "features gorgeous"
+        "features gorgeous",
+        "Dr1",
+        "DR1 solitary"
     ],
     "edges": [
-        "Budge --[budge]--> Institute Technology:",
         "Rolls-royce --[silver]--> Wraith: The",
         "Was --[made]--> from 1946",
         "Jerry --[broome:]--> Jerry Broome",
@@ -251,6 +250,7 @@
         "Umbilical --[artery:]--> The umbilical",
         "The --[fetus,]--> extends into",
         "Resistiré --[(argentine]--> series): Resistiré",
-        "This --[serial]--> features gorgeous"
+        "This --[serial]--> features gorgeous",
+        "Dr1 --[(star):]--> DR1 solitary"
     ]
 }
