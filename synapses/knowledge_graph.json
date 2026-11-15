@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Dupont",
-        "The Alfred",
-        "historic building",
         "Located",
         "East Flagler",
         "Westhausen,",
@@ -99,11 +96,12 @@
         "Fellows",
         "Gardens: Fellows",
         "The",
-        "are locat"
+        "are locat",
+        "Umbilical",
+        "The umbilical",
+        "extends into"
     ],
     "edges": [
-        "Chitty --[chitty]--> Bang Bang",
-        "Portrait --[sir]--> Robert Peel:",
         "Peter --[akinola:]--> Peter Jasper",
         "Also --[the]--> former bishop",
         "Budge --[budge]--> Institute Technology:",
@@ -251,6 +249,8 @@
         "Timothy --[peach:]--> Timothy Peach",
         "Appeared --[more]--> than seventy",
         "Fellows --[riverside]--> Gardens: Fellows",
-        "The --[gardens]--> are locat"
+        "The --[gardens]--> are locat",
+        "Umbilical --[artery:]--> The umbilical",
+        "The --[fetus,]--> extends into"
     ]
 }
