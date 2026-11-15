@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Located",
-        "East Flagler",
-        "Westhausen,",
-        "Westhausen municipality",
         "Chunkz:",
         "Mohamed, better",
         "Canterbury",
@@ -99,11 +95,13 @@
         "are locat",
         "Umbilical",
         "The umbilical",
-        "extends into"
+        "extends into",
+        "Resistiré",
+        "series): Resistiré",
+        "This",
+        "features gorgeous"
     ],
     "edges": [
-        "Peter --[akinola:]--> Peter Jasper",
-        "Also --[the]--> former bishop",
         "Budge --[budge]--> Institute Technology:",
         "Rolls-royce --[silver]--> Wraith: The",
         "Was --[made]--> from 1946",
@@ -251,6 +249,8 @@
         "Fellows --[riverside]--> Gardens: Fellows",
         "The --[gardens]--> are locat",
         "Umbilical --[artery:]--> The umbilical",
-        "The --[fetus,]--> extends into"
+        "The --[fetus,]--> extends into",
+        "Resistiré --[(argentine]--> series): Resistiré",
+        "This --[serial]--> features gorgeous"
     ]
 }
