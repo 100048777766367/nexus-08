@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Southbury",
-        "station: Southbury",
         "True:",
         "William True",
         "Saia,",
@@ -99,10 +97,11 @@
         "Dr1",
         "DR1 solitary",
         "Uss",
-        "(AM-27): USS"
+        "(AM-27): USS",
+        "Concrete",
+        "concrete finisher"
     ],
     "edges": [
-        "Was --[made]--> from 1946",
         "Jerry --[broome:]--> Jerry Broome",
         "First --[starred]--> the short",
         "Fernando --[verdasco:]--> Fernando Verdasco",
@@ -251,6 +250,7 @@
         "Resistiré --[(argentine]--> series): Resistiré",
         "This --[serial]--> features gorgeous",
         "Dr1 --[(star):]--> DR1 solitary",
-        "Uss --[pelican]--> (AM-27): USS"
+        "Uss --[pelican]--> (AM-27): USS",
+        "Concrete --[finisher:]--> concrete finisher"
     ]
 }
