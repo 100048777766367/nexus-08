@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "True:",
-        "William True",
         "Saia,",
         "Saia village",
         "Diocese",
@@ -99,10 +97,11 @@
         "Uss",
         "(AM-27): USS",
         "Concrete",
-        "concrete finisher"
+        "concrete finisher",
+        "Christoffer",
+        "Christoffer Lisson"
     ],
     "edges": [
-        "Jerry --[broome:]--> Jerry Broome",
         "First --[starred]--> the short",
         "Fernando --[verdasco:]--> Fernando Verdasco",
         "Was --[ranked]--> world",
@@ -251,6 +250,7 @@
         "This --[serial]--> features gorgeous",
         "Dr1 --[(star):]--> DR1 solitary",
         "Uss --[pelican]--> (AM-27): USS",
-        "Concrete --[finisher:]--> concrete finisher"
+        "Concrete --[finisher:]--> concrete finisher",
+        "Christoffer --[lisson:]--> Christoffer Lisson"
     ]
 }
