@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Saia,",
-        "Saia village",
-        "Diocese",
-        "The Roman",
         "Hmas",
         "HMAS Gympie",
         "Lawrence:",
@@ -99,11 +95,13 @@
         "Concrete",
         "concrete finisher",
         "Christoffer",
-        "Christoffer Lisson"
+        "Christoffer Lisson",
+        "Capucine",
+        "Capucine Anav",
+        "She",
+        "columnist the"
     ],
     "edges": [
-        "First --[starred]--> the short",
-        "Fernando --[verdasco:]--> Fernando Verdasco",
         "Was --[ranked]--> world",
         "Tió --[nadal:]--> The Tió",
         "Phydanis: --[phydanis]--> genus flea",
@@ -251,6 +249,8 @@
         "Dr1 --[(star):]--> DR1 solitary",
         "Uss --[pelican]--> (AM-27): USS",
         "Concrete --[finisher:]--> concrete finisher",
-        "Christoffer --[lisson:]--> Christoffer Lisson"
+        "Christoffer --[lisson:]--> Christoffer Lisson",
+        "Capucine --[anav:]--> Capucine Anav",
+        "She --[former]--> columnist the"
     ]
 }
