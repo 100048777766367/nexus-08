@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Lawrence:",
-        "Barrien Lawrence",
         "Michael",
         "(basketball, born",
         "During",
@@ -99,10 +97,11 @@
         "She",
         "columnist the",
         "Daniil",
-        "Daniil Lukich"
+        "Daniil Lukich",
+        "Statue",
+        "Rolleston: The"
     ],
     "edges": [
-        "Tió --[nadal:]--> The Tió",
         "Phydanis: --[phydanis]--> genus flea",
         "There --[are]--> two described",
         "Poland --[the]--> 2022 Winter",
@@ -251,6 +250,7 @@
         "Christoffer --[lisson:]--> Christoffer Lisson",
         "Capucine --[anav:]--> Capucine Anav",
         "She --[former]--> columnist the",
-        "Daniil --[mordovtsev:]--> Daniil Lukich"
+        "Daniil --[mordovtsev:]--> Daniil Lukich",
+        "Statue --[william]--> Rolleston: The"
     ]
 }
