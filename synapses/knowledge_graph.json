@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Hmas",
-        "HMAS Gympie",
         "Lawrence:",
         "Barrien Lawrence",
         "Michael",
@@ -99,10 +97,11 @@
         "Capucine",
         "Capucine Anav",
         "She",
-        "columnist the"
+        "columnist the",
+        "Daniil",
+        "Daniil Lukich"
     ],
     "edges": [
-        "Was --[ranked]--> world",
         "Tió --[nadal:]--> The Tió",
         "Phydanis: --[phydanis]--> genus flea",
         "There --[are]--> two described",
@@ -251,6 +250,7 @@
         "Concrete --[finisher:]--> concrete finisher",
         "Christoffer --[lisson:]--> Christoffer Lisson",
         "Capucine --[anav:]--> Capucine Anav",
-        "She --[former]--> columnist the"
+        "She --[former]--> columnist the",
+        "Daniil --[mordovtsev:]--> Daniil Lukich"
     ]
 }
