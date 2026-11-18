@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Michael",
-        "(basketball, born",
         "During",
         "college years,",
         "Midnight",
@@ -99,10 +97,11 @@
         "Daniil",
         "Daniil Lukich",
         "Statue",
-        "Rolleston: The"
+        "Rolleston: The",
+        "Pete",
+        "Jose Maria"
     ],
     "edges": [
-        "Phydanis: --[phydanis]--> genus flea",
         "There --[are]--> two described",
         "Poland --[the]--> 2022 Winter",
         "Kreil, --[netherlands:]--> Kreil hamlet",
@@ -251,6 +250,7 @@
         "Capucine --[anav:]--> Capucine Anav",
         "She --[former]--> columnist the",
         "Daniil --[mordovtsev:]--> Daniil Lukich",
-        "Statue --[william]--> Rolleston: The"
+        "Statue --[william]--> Rolleston: The",
+        "Pete --[lacaba:]--> Jose Maria"
     ]
 }
