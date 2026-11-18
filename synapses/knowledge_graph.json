@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "During",
-        "college years,",
-        "Midnight",
-        "(album): Midnight",
         "Universal Music",
         "Chavantes:",
         "municipality the",
@@ -99,11 +95,13 @@
         "Statue",
         "Rolleston: The",
         "Pete",
-        "Jose Maria"
+        "Jose Maria",
+        "Dean",
+        "Dean Neu",
+        "Former",
+        "Critical Perspectives"
     ],
     "edges": [
-        "There --[are]--> two described",
-        "Poland --[the]--> 2022 Winter",
         "Kreil, --[netherlands:]--> Kreil hamlet",
         "Anarchist --[bombing]--> campaign 1888–1889:",
         "Louis --[lemercier]--> Neuville: Louis",
@@ -251,6 +249,8 @@
         "She --[former]--> columnist the",
         "Daniil --[mordovtsev:]--> Daniil Lukich",
         "Statue --[william]--> Rolleston: The",
-        "Pete --[lacaba:]--> Jose Maria"
+        "Pete --[lacaba:]--> Jose Maria",
+        "Dean --[neu:]--> Dean Neu",
+        "Former --[editor]--> Critical Perspectives"
     ]
 }
