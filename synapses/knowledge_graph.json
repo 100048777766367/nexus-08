@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Like",
-        "other 576",
         "Pristigasteridae:",
         "family ray-finned",
         "Shafiul",
@@ -99,10 +97,11 @@
         "Hulusi",
         "Hulusi Akar",
         "Previously",
-        "the 29th"
+        "the 29th",
+        "2014–15",
+        "State Cowgirls"
     ],
     "edges": [
-        "West --[wight]--> Potter 19:",
         "More --[than]--> 1600 were",
         "Fnz: --[fnz]--> are Australian",
         "The --[group]--> was",
@@ -251,6 +250,7 @@
         "Former --[editor]--> Critical Perspectives",
         "Shaurya --[smarak:]--> Shaurya Smarak",
         "Hulusi --[akar:]--> Hulusi Akar",
-        "Previously --[served]--> the 29th"
+        "Previously --[served]--> the 29th",
+        "2014–15 --[mcneese]--> State Cowgirls"
     ]
 }
