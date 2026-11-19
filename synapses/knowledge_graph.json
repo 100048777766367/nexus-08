@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Universal Music",
-        "Chavantes:",
         "municipality the",
         "12,418 area",
         "Loiret's",
@@ -99,10 +97,11 @@
         "Dean",
         "Dean Neu",
         "Former",
-        "Critical Perspectives"
+        "Critical Perspectives",
+        "Shaurya",
+        "Shaurya Smarak"
     ],
     "edges": [
-        "Kreil, --[netherlands:]--> Kreil hamlet",
         "Anarchist --[bombing]--> campaign 1888–1889:",
         "Louis --[lemercier]--> Neuville: Louis",
         "West --[wight]--> Potter 19:",
@@ -251,6 +250,7 @@
         "Statue --[william]--> Rolleston: The",
         "Pete --[lacaba:]--> Jose Maria",
         "Dean --[neu:]--> Dean Neu",
-        "Former --[editor]--> Critical Perspectives"
+        "Former --[editor]--> Critical Perspectives",
+        "Shaurya --[smarak:]--> Shaurya Smarak"
     ]
 }
