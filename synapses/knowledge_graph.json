@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "municipality the",
-        "12,418 area",
-        "Loiret's",
-        "constituency: The",
         "Like",
         "other 576",
         "Pristigasteridae:",
@@ -99,11 +95,13 @@
         "Former",
         "Critical Perspectives",
         "Shaurya",
-        "Shaurya Smarak"
+        "Shaurya Smarak",
+        "Hulusi",
+        "Hulusi Akar",
+        "Previously",
+        "the 29th"
     ],
     "edges": [
-        "Anarchist --[bombing]--> campaign 1888–1889:",
-        "Louis --[lemercier]--> Neuville: Louis",
         "West --[wight]--> Potter 19:",
         "More --[than]--> 1600 were",
         "Fnz: --[fnz]--> are Australian",
@@ -251,6 +249,8 @@
         "Pete --[lacaba:]--> Jose Maria",
         "Dean --[neu:]--> Dean Neu",
         "Former --[editor]--> Critical Perspectives",
-        "Shaurya --[smarak:]--> Shaurya Smarak"
+        "Shaurya --[smarak:]--> Shaurya Smarak",
+        "Hulusi --[akar:]--> Hulusi Akar",
+        "Previously --[served]--> the 29th"
     ]
 }
