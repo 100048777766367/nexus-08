@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Shafiul",
-        "Shafiul Azam",
         "Yelena",
         "(Marvel Cinematic",
         "Athbi",
@@ -99,10 +97,11 @@
         "2014–15",
         "State Cowgirls",
         "Alice",
-        "(peace activist):"
+        "(peace activist):",
+        "Antonio",
+        "Antonio Mucci"
     ],
     "edges": [
-        "Fnz: --[fnz]--> are Australian",
         "The --[group]--> was",
         "Battle --[the]--> Bridge: The",
         "Noil: --[noil]--> refers the",
@@ -251,6 +250,7 @@
         "Hulusi --[akar:]--> Hulusi Akar",
         "Previously --[served]--> the 29th",
         "2014–15 --[mcneese]--> State Cowgirls",
-        "Alice --[cook]--> (peace activist):"
+        "Alice --[cook]--> (peace activist):",
+        "Antonio --[mucci:]--> Antonio Mucci"
     ]
 }
