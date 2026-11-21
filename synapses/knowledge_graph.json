@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Athbi",
-        "Al-Ahmad Al-Sabah:",
-        "Doug",
         "(musician): Doug",
         "Best",
         "for his",
@@ -99,11 +96,12 @@
         "Antonio",
         "Antonio Mucci",
         "Hatuqay:",
-        "Hatuqay are"
+        "Hatuqay are",
+        "Equiniti:",
+        "Group Limited",
+        "primary office"
     ],
     "edges": [
-        "Battle --[the]--> Bridge: The",
-        "Noil: --[noil]--> refers the",
         "These --[fibers]--> are often",
         "Karl --[ernst]--> von Baer:",
         "Baer --[was]--> naturalist, biologis",
@@ -251,6 +249,8 @@
         "2014–15 --[mcneese]--> State Cowgirls",
         "Alice --[cook]--> (peace activist):",
         "Antonio --[mucci:]--> Antonio Mucci",
-        "Hatuqay: --[the]--> Hatuqay are"
+        "Hatuqay: --[the]--> Hatuqay are",
+        "Equiniti: --[equiniti]--> Group Limited",
+        "The --[company's]--> primary office"
     ]
 }
