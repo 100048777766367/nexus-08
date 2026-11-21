@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "(musician): Doug",
-        "Best",
-        "for his",
         "Ludwig",
         "Ludwig Heinrich",
         "Man: The",
@@ -99,11 +96,12 @@
         "Hatuqay are",
         "Equiniti:",
         "Group Limited",
-        "primary office"
+        "primary office",
+        "Kgim-fm:",
+        "radio station",
+        "owned Prairie"
     ],
     "edges": [
-        "These --[fibers]--> are often",
-        "Karl --[ernst]--> von Baer:",
         "Baer --[was]--> naturalist, biologis",
         "Sinlap: --[sinlap]--> shallow impact",
         "Located --[the]--> Fensal region,",
@@ -251,6 +249,8 @@
         "Antonio --[mucci:]--> Antonio Mucci",
         "Hatuqay: --[the]--> Hatuqay are",
         "Equiniti: --[equiniti]--> Group Limited",
-        "The --[company's]--> primary office"
+        "The --[company's]--> primary office",
+        "Kgim-fm: --[kgim-fm]--> radio station",
+        "The --[station]--> owned Prairie"
     ]
 }
