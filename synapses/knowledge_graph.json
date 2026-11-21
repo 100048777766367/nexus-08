@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Yelena",
-        "(Marvel Cinematic",
         "Athbi",
         "Al-Ahmad Al-Sabah:",
         "Doug",
@@ -99,10 +97,11 @@
         "Alice",
         "(peace activist):",
         "Antonio",
-        "Antonio Mucci"
+        "Antonio Mucci",
+        "Hatuqay:",
+        "Hatuqay are"
     ],
     "edges": [
-        "The --[group]--> was",
         "Battle --[the]--> Bridge: The",
         "Noil: --[noil]--> refers the",
         "These --[fibers]--> are often",
@@ -251,6 +250,7 @@
         "Previously --[served]--> the 29th",
         "2014–15 --[mcneese]--> State Cowgirls",
         "Alice --[cook]--> (peace activist):",
-        "Antonio --[mucci:]--> Antonio Mucci"
+        "Antonio --[mucci:]--> Antonio Mucci",
+        "Hatuqay: --[the]--> Hatuqay are"
     ]
 }
