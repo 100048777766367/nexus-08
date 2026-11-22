@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Born",
-        "she officia",
-        "Penny",
         "The Penny",
         "Was",
         "issued the",
@@ -99,11 +96,12 @@
         "Paolo",
         "Paolo Emanuele",
         "From",
-        "office the"
+        "office the",
+        "2017",
+        "Presidency the",
+        "was the"
     ],
     "edges": [
-        "Yavne'el: --[yavne'el]--> moshava and",
-        "Founded --[1901,]--> one the",
         "Chestnut --[street]--> (Philadelphia): Chestnut",
         "Was --[originally]--> named Wynne",
         "Arkansas --[highway]--> 116: Highway",
@@ -251,6 +249,8 @@
         "The --[station]--> owned Prairie",
         "Katrin --[lompscher:]--> Katrin Lompscher",
         "Paolo --[borsellino:]--> Paolo Emanuele",
-        "From --[his]--> office the"
+        "From --[his]--> office the",
+        "2017 --[maltese]--> Presidency the",
+        "The --[presidency]--> was the"
     ]
 }
