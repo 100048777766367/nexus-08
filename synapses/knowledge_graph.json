@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Man: The",
-        "released December",
-        "Eugenia",
-        "Soriano: María",
         "Born",
         "she officia",
         "Penny",
@@ -99,11 +95,13 @@
         "radio station",
         "owned Prairie",
         "Katrin",
-        "Katrin Lompscher"
+        "Katrin Lompscher",
+        "Paolo",
+        "Paolo Emanuele",
+        "From",
+        "office the"
     ],
     "edges": [
-        "Sinlap: --[sinlap]--> shallow impact",
-        "Located --[the]--> Fensal region,",
         "Yavne'el: --[yavne'el]--> moshava and",
         "Founded --[1901,]--> one the",
         "Chestnut --[street]--> (Philadelphia): Chestnut",
@@ -251,6 +249,8 @@
         "The --[company's]--> primary office",
         "Kgim-fm: --[kgim-fm]--> radio station",
         "The --[station]--> owned Prairie",
-        "Katrin --[lompscher:]--> Katrin Lompscher"
+        "Katrin --[lompscher:]--> Katrin Lompscher",
+        "Paolo --[borsellino:]--> Paolo Emanuele",
+        "From --[his]--> office the"
     ]
 }
