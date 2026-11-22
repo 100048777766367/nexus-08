@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ludwig",
-        "Ludwig Heinrich",
         "Man: The",
         "released December",
         "Eugenia",
@@ -99,10 +97,11 @@
         "primary office",
         "Kgim-fm:",
         "radio station",
-        "owned Prairie"
+        "owned Prairie",
+        "Katrin",
+        "Katrin Lompscher"
     ],
     "edges": [
-        "Baer --[was]--> naturalist, biologis",
         "Sinlap: --[sinlap]--> shallow impact",
         "Located --[the]--> Fensal region,",
         "Yavne'el: --[yavne'el]--> moshava and",
@@ -251,6 +250,7 @@
         "Equiniti: --[equiniti]--> Group Limited",
         "The --[company's]--> primary office",
         "Kgim-fm: --[kgim-fm]--> radio station",
-        "The --[station]--> owned Prairie"
+        "The --[station]--> owned Prairie",
+        "Katrin --[lompscher:]--> Katrin Lompscher"
     ]
 }
