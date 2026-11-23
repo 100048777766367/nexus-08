@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The Penny",
-        "Was",
         "issued the",
         "Pascal",
         "Pascal Mérigeau",
@@ -99,10 +97,11 @@
         "office the",
         "2017",
         "Presidency the",
-        "was the"
+        "was the",
+        "First",
+        "Missionary Baptist"
     ],
     "edges": [
-        "Chestnut --[street]--> (Philadelphia): Chestnut",
         "Was --[originally]--> named Wynne",
         "Arkansas --[highway]--> 116: Highway",
         "The --[arizona]--> Whirlwind: The",
@@ -251,6 +250,7 @@
         "Paolo --[borsellino:]--> Paolo Emanuele",
         "From --[his]--> office the",
         "2017 --[maltese]--> Presidency the",
-        "The --[presidency]--> was the"
+        "The --[presidency]--> was the",
+        "First --[african]--> Missionary Baptist"
     ]
 }
