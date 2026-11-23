@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "issued the",
-        "Pascal",
         "Pascal Mérigeau",
         "Hamid",
         "Hamid Ashraf",
@@ -99,10 +97,11 @@
         "Presidency the",
         "was the",
         "First",
-        "Missionary Baptist"
+        "Missionary Baptist",
+        "New",
+        "Trust Building:"
     ],
     "edges": [
-        "Was --[originally]--> named Wynne",
         "Arkansas --[highway]--> 116: Highway",
         "The --[arizona]--> Whirlwind: The",
         "South --[bartow]--> Residential District:",
@@ -251,6 +250,7 @@
         "From --[his]--> office the",
         "2017 --[maltese]--> Presidency the",
         "The --[presidency]--> was the",
-        "First --[african]--> Missionary Baptist"
+        "First --[african]--> Missionary Baptist",
+        "New --[rochelle]--> Trust Building:"
     ]
 }
