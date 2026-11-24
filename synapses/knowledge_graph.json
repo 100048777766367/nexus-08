@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Hamid Ashraf",
-        "Boone",
         "School: William",
         "Built",
         "the school",
@@ -99,10 +97,11 @@
         "New",
         "Trust Building:",
         "Chinese",
-        "New Manual:"
+        "New Manual:",
+        "Glan-münchweiler:",
+        "Ortsgemeinde municipality"
     ],
     "edges": [
-        "The --[arizona]--> Whirlwind: The",
         "South --[bartow]--> Residential District:",
         "Composed --[area]--> bounded",
         "Vivaldi's --[cello:]--> Vivaldi’s Cello",
@@ -251,6 +250,7 @@
         "The --[presidency]--> was the",
         "First --[african]--> Missionary Baptist",
         "New --[rochelle]--> Trust Building:",
-        "Chinese --[history:]--> New Manual:"
+        "Chinese --[history:]--> New Manual:",
+        "Glan-münchweiler: --[glan-münchweiler]--> Ortsgemeinde municipality"
     ]
 }
