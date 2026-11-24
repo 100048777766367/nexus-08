@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Pascal Mérigeau",
-        "Hamid",
         "Hamid Ashraf",
         "Boone",
         "School: William",
@@ -99,10 +97,11 @@
         "First",
         "Missionary Baptist",
         "New",
-        "Trust Building:"
+        "Trust Building:",
+        "Chinese",
+        "New Manual:"
     ],
     "edges": [
-        "Arkansas --[highway]--> 116: Highway",
         "The --[arizona]--> Whirlwind: The",
         "South --[bartow]--> Residential District:",
         "Composed --[area]--> bounded",
@@ -251,6 +250,7 @@
         "2017 --[maltese]--> Presidency the",
         "The --[presidency]--> was the",
         "First --[african]--> Missionary Baptist",
-        "New --[rochelle]--> Trust Building:"
+        "New --[rochelle]--> Trust Building:",
+        "Chinese --[history:]--> New Manual:"
     ]
 }
