@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "School: William",
-        "Built",
         "the school",
         "Jurong",
         "Jurong Island",
@@ -99,10 +97,11 @@
         "Chinese",
         "New Manual:",
         "Glan-münchweiler:",
-        "Ortsgemeinde municipality"
+        "Ortsgemeinde municipality",
+        "Elisabeth",
+        "Bryan album):"
     ],
     "edges": [
-        "South --[bartow]--> Residential District:",
         "Composed --[area]--> bounded",
         "Vivaldi's --[cello:]--> Vivaldi’s Cello",
         "Christopher --[llewellyn]--> Smith: Sir",
@@ -251,6 +250,7 @@
         "First --[african]--> Missionary Baptist",
         "New --[rochelle]--> Trust Building:",
         "Chinese --[history:]--> New Manual:",
-        "Glan-münchweiler: --[glan-münchweiler]--> Ortsgemeinde municipality"
+        "Glan-münchweiler: --[glan-münchweiler]--> Ortsgemeinde municipality",
+        "Elisabeth --[(zach]--> Bryan album):"
     ]
 }
