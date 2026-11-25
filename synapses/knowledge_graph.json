@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "the school",
-        "Jurong",
         "Jurong Island",
         "through the",
         "Church",
@@ -99,10 +97,11 @@
         "Glan-münchweiler:",
         "Ortsgemeinde municipality",
         "Elisabeth",
-        "Bryan album):"
+        "Bryan album):",
+        "Nexus-08:",
+        "Giao Điểm"
     ],
     "edges": [
-        "Composed --[area]--> bounded",
         "Vivaldi's --[cello:]--> Vivaldi’s Cello",
         "Christopher --[llewellyn]--> Smith: Sir",
         "Liveship --[traders:]--> The Liveship",
@@ -251,6 +250,7 @@
         "New --[rochelle]--> Trust Building:",
         "Chinese --[history:]--> New Manual:",
         "Glan-münchweiler: --[glan-münchweiler]--> Ortsgemeinde municipality",
-        "Elisabeth --[(zach]--> Bryan album):"
+        "Elisabeth --[(zach]--> Bryan album):",
+        "Nexus-08: --[đại]--> Giao Điểm"
     ]
 }
