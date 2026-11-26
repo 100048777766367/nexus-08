@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Church",
-        "the Purification,",
         "Jeremy",
         "Jeremy Ashkenas",
         "Human",
@@ -99,10 +97,11 @@
         "Nexus-08:",
         "Giao Điểm",
         "Darya",
-        "Darya Andriyivna"
+        "Darya Andriyivna",
+        "Seaweed",
+        "The seaweed"
     ],
     "edges": [
-        "Christopher --[llewellyn]--> Smith: Sir",
         "Liveship --[traders:]--> The Liveship",
         "Nautical --[fantasy]--> series, the",
         "Corning, --[saskatchewan:]--> Corning hamlet",
@@ -251,6 +250,7 @@
         "Glan-münchweiler: --[glan-münchweiler]--> Ortsgemeinde municipality",
         "Elisabeth --[(zach]--> Bryan album):",
         "Nexus-08: --[đại]--> Giao Điểm",
-        "Darya --[rublova:]--> Darya Andriyivna"
+        "Darya --[rublova:]--> Darya Andriyivna",
+        "Seaweed --[blenny:]--> The seaweed"
     ]
 }
