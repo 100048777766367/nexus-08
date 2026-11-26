@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Jeremy",
-        "Jeremy Ashkenas",
-        "Human",
-        "Human metapneumovirus",
         "Trellis",
         "Trellis netting",
         "Landolphia",
@@ -99,11 +95,13 @@
         "Darya",
         "Darya Andriyivna",
         "Seaweed",
-        "The seaweed"
+        "The seaweed",
+        "Shenkeng",
+        "Shenkeng District",
+        "Formerly",
+        "and mining"
     ],
     "edges": [
-        "Liveship --[traders:]--> The Liveship",
-        "Nautical --[fantasy]--> series, the",
         "Corning, --[saskatchewan:]--> Corning hamlet",
         "Church --[james,]--> Biddenham: Church",
         "Became --[listed]--> building Jul",
@@ -251,6 +249,8 @@
         "Elisabeth --[(zach]--> Bryan album):",
         "Nexus-08: --[đại]--> Giao Điểm",
         "Darya --[rublova:]--> Darya Andriyivna",
-        "Seaweed --[blenny:]--> The seaweed"
+        "Seaweed --[blenny:]--> The seaweed",
+        "Shenkeng --[district:]--> Shenkeng District",
+        "Formerly --[agricultural]--> and mining"
     ]
 }
