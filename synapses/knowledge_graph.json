@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Jurong Island",
-        "through the",
         "Church",
         "the Purification,",
         "Jeremy",
@@ -99,10 +97,11 @@
         "Elisabeth",
         "Bryan album):",
         "Nexus-08:",
-        "Giao Điểm"
+        "Giao Điểm",
+        "Darya",
+        "Darya Andriyivna"
     ],
     "edges": [
-        "Vivaldi's --[cello:]--> Vivaldi’s Cello",
         "Christopher --[llewellyn]--> Smith: Sir",
         "Liveship --[traders:]--> The Liveship",
         "Nautical --[fantasy]--> series, the",
@@ -251,6 +250,7 @@
         "Chinese --[history:]--> New Manual:",
         "Glan-münchweiler: --[glan-münchweiler]--> Ortsgemeinde municipality",
         "Elisabeth --[(zach]--> Bryan album):",
-        "Nexus-08: --[đại]--> Giao Điểm"
+        "Nexus-08: --[đại]--> Giao Điểm",
+        "Darya --[rublova:]--> Darya Andriyivna"
     ]
 }
