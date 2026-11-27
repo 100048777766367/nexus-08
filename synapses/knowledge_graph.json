@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Landolphia",
-        "Landolphia owariensis",
-        "Latex",
-        "extracted",
         "Ras",
         "Ras Nas,",
         "Rock",
@@ -99,11 +95,13 @@
         "Formerly",
         "and mining",
         "Greg",
-        "Gregory Michael"
+        "Gregory Michael",
+        "Lake",
+        "Lake Allatoona",
+        "Army",
+        "Engineers reservoir"
     ],
     "edges": [
-        "Church --[james,]--> Biddenham: Church",
-        "Became --[listed]--> building Jul",
         "Kaiser: --[henry]--> John Kaiser",
         "Barn: --[barn]--> agricultural building",
         "North --[america,]--> barn refers",
@@ -251,6 +249,8 @@
         "Seaweed --[blenny:]--> The seaweed",
         "Shenkeng --[district:]--> Shenkeng District",
         "Formerly --[agricultural]--> and mining",
-        "Greg --[pavlick:]--> Gregory Michael"
+        "Greg --[pavlick:]--> Gregory Michael",
+        "Lake --[allatoona:]--> Lake Allatoona",
+        "Army --[corps]--> Engineers reservoir"
     ]
 }
