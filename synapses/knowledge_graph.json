@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Trellis",
-        "Trellis netting",
         "Landolphia",
         "Landolphia owariensis",
         "Latex",
@@ -99,10 +97,11 @@
         "Shenkeng",
         "Shenkeng District",
         "Formerly",
-        "and mining"
+        "and mining",
+        "Greg",
+        "Gregory Michael"
     ],
     "edges": [
-        "Corning, --[saskatchewan:]--> Corning hamlet",
         "Church --[james,]--> Biddenham: Church",
         "Became --[listed]--> building Jul",
         "Kaiser: --[henry]--> John Kaiser",
@@ -251,6 +250,7 @@
         "Darya --[rublova:]--> Darya Andriyivna",
         "Seaweed --[blenny:]--> The seaweed",
         "Shenkeng --[district:]--> Shenkeng District",
-        "Formerly --[agricultural]--> and mining"
+        "Formerly --[agricultural]--> and mining",
+        "Greg --[pavlick:]--> Gregory Michael"
     ]
 }
