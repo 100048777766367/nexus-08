@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Rock",
-        "Rock: \"Rock",
-        "Stanislaw",
-        "Stanislaw Zalewski",
         "Competed",
         "mixed metres",
         "Timothy",
@@ -99,11 +95,13 @@
         "Army",
         "Engineers reservoir",
         "Toshizō:",
-        "masculine Japanese"
+        "masculine Japanese",
+        "Video",
+        "Video Chess",
+        "For",
+        "Atari 2600"
     ],
     "edges": [
-        "Barn: --[barn]--> agricultural building",
-        "North --[america,]--> barn refers",
         "Working --[group:]--> working group",
         "Such --[groups]--> are domain-specific",
         "Thomas --[wentworth,]--> 1st Baron",
@@ -251,6 +249,8 @@
         "Greg --[pavlick:]--> Gregory Michael",
         "Lake --[allatoona:]--> Lake Allatoona",
         "Army --[corps]--> Engineers reservoir",
-        "Toshizō: --[toshizō]--> masculine Japanese"
+        "Toshizō: --[toshizō]--> masculine Japanese",
+        "Video --[chess:]--> Video Chess",
+        "For --[the]--> Atari 2600"
     ]
 }
