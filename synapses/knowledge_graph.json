@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ras",
-        "Ras Nas,",
         "Rock",
         "Rock: \"Rock",
         "Stanislaw",
@@ -99,10 +97,11 @@
         "Lake",
         "Lake Allatoona",
         "Army",
-        "Engineers reservoir"
+        "Engineers reservoir",
+        "Toshizō:",
+        "masculine Japanese"
     ],
     "edges": [
-        "Kaiser: --[henry]--> John Kaiser",
         "Barn: --[barn]--> agricultural building",
         "North --[america,]--> barn refers",
         "Working --[group:]--> working group",
@@ -251,6 +250,7 @@
         "Formerly --[agricultural]--> and mining",
         "Greg --[pavlick:]--> Gregory Michael",
         "Lake --[allatoona:]--> Lake Allatoona",
-        "Army --[corps]--> Engineers reservoir"
+        "Army --[corps]--> Engineers reservoir",
+        "Toshizō: --[toshizō]--> masculine Japanese"
     ]
 }
